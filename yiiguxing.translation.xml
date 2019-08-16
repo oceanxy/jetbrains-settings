@@ -1,0 +1,26 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="checkbox" />
+      <item value="ox，且是否启用表" />
+      <item value="scroll Height" />
+      <item value="property" />
+      <item value="row Checkbox" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20190816000326973" />
+        <option name="appKeyConfigured" value="true" />
+      </app-key>
+    </option>
+    <option name="ignoreRegExp" value="" />
+    <option name="translator" value="fanyi.baidu" />
+  </component>
+</application>

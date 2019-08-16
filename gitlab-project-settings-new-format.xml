@@ -1,0 +1,3389 @@
+<application>
+  <component name="SettingsState">
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/babel-plugin-editor.git" />
+          <option name="name" value="babel-plugin-editor" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/babel-plugin-editor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/cli.git" />
+          <option name="name" value="cli" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/cli.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/core.git" />
+          <option name="name" value="core" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/core.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/editor.git" />
+          <option name="name" value="editor" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/editor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/event-panel.git" />
+          <option name="name" value="event-panel" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/event-panel.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/expression.git" />
+          <option name="name" value="expression" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/expression.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/generator.git" />
+          <option name="name" value="generator" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/generator.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/generator-server.git" />
+          <option name="name" value="generator-server" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/generator-server.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/home.git" />
+          <option name="name" value="home" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/home.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-choose.git" />
+          <option name="name" value="plugin-choose" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-choose.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-data-driver.git" />
+          <option name="name" value="plugin-data-driver" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-data-driver.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-event.git" />
+          <option name="name" value="plugin-event" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-event.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-layer.git" />
+          <option name="name" value="plugin-layer" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-layer.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/sdk.git" />
+          <option name="name" value="sdk" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/sdk.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/server.git" />
+          <option name="name" value="server" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/server.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/studio.git" />
+          <option name="name" value="studio" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/studio.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/studio-deprecated.git" />
+          <option name="name" value="studio-deprecated" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/studio-deprecated.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyeditor/editorhome.git" />
+          <option name="name" value="editorHome" />
+          <option name="namespace" value="hyeditor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyeditor/editorhome.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/code-review-.git" />
+          <option name="name" value="code-review " />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/code-review-.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/demo-project.git" />
+          <option name="name" value="demo-project" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/demo-project.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/experience-.git" />
+          <option name="name" value="experience " />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/experience-.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/fe-rd-system.git" />
+          <option name="name" value="fe-rd-system" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/fe-rd-system.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/hy-react-demo.git" />
+          <option name="name" value="hy-react-demo" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/hy-react-demo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/share.git" />
+          <option name="name" value="share" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/share.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/visual-editor.git" />
+          <option name="name" value="visual-editor" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/visual-editor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/aimo.ai.git" />
+          <option name="name" value="aimo.ai" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/aimo.ai.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/bigdataplatform.git" />
+          <option name="name" value="bigdataPlatform" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/bigdataplatform.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/bijie.git" />
+          <option name="name" value="bijie" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/bijie.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/changzhou2.git" />
+          <option name="name" value="changzhou2" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/changzhou2.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/chendu.git" />
+          <option name="name" value="chendu" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/chendu.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/data-standard.git" />
+          <option name="name" value="data-standard" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/data-standard.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/diaisi-journal.git" />
+          <option name="name" value="diaisi-Journal" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/diaisi-journal.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/eyesight.git" />
+          <option name="name" value="eyesight" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/eyesight.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/fulin.git" />
+          <option name="name" value="fulin" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/fulin.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/guiyang.git" />
+          <option name="name" value="guiyang" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/guiyang.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/guizhoukuai-.git" />
+          <option name="name" value="guizhoukuai " />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/guizhoukuai-.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/gy-data-standard.git" />
+          <option name="name" value="gy-data-standard" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/gy-data-standard.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/huangnan-management-platform.git" />
+          <option name="name" value="huangnan-management-platform" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/huangnan-management-platform.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/interpol-college.git" />
+          <option name="name" value="interpol-college" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/interpol-college.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jiangsu-data-center.git" />
+          <option name="name" value="jiangsu-data-center" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jiangsu-data-center.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jiulongpo.git" />
+          <option name="name" value="jiulongpo" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jiulongpo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jizhen-dc.git" />
+          <option name="name" value="jizhen-dc" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jizhen-dc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jizhen-zyzh.git" />
+          <option name="name" value="jizhen-zyzh" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jizhen-zyzh.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/kunming.git" />
+          <option name="name" value="kunming" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/kunming.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/neumo.ai.git" />
+          <option name="name" value="neumo.ai" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/neumo.ai.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/project-doc.git" />
+          <option name="name" value="project-doc" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/project-doc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/qingbao.git" />
+          <option name="name" value="qingbao" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/qingbao.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/qingbao-wall.git" />
+          <option name="name" value="qingbao-wall" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/qingbao-wall.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/tianjin-node.git" />
+          <option name="name" value="tianjin-node" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/tianjin-node.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/tianjin-person.git" />
+          <option name="name" value="tianjin-person" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/tianjin-person.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/tianyan.git" />
+          <option name="name" value="tianyan" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/tianyan.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/wanda.git" />
+          <option name="name" value="wanda" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/wanda.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/wuhankanban.git" />
+          <option name="name" value="wuhankanban" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/wuhankanban.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/xingzhen.git" />
+          <option name="name" value="xingzhen" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/xingzhen.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/yizheng.git" />
+          <option name="name" value="yizheng" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/yizheng.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/yunnan.git" />
+          <option name="name" value="yunnan" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/yunnan.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/babel-plugin-editor.git" />
+          <option name="name" value="babel-plugin-editor" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/babel-plugin-editor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/cli.git" />
+          <option name="name" value="cli" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/cli.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/core.git" />
+          <option name="name" value="core" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/core.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/editor.git" />
+          <option name="name" value="editor" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/editor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/event-panel.git" />
+          <option name="name" value="event-panel" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/event-panel.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/expression.git" />
+          <option name="name" value="expression" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/expression.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/generator.git" />
+          <option name="name" value="generator" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/generator.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/generator-server.git" />
+          <option name="name" value="generator-server" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/generator-server.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/home.git" />
+          <option name="name" value="home" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/home.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-choose.git" />
+          <option name="name" value="plugin-choose" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-choose.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-data-driver.git" />
+          <option name="name" value="plugin-data-driver" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-data-driver.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-event.git" />
+          <option name="name" value="plugin-event" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-event.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-layer.git" />
+          <option name="name" value="plugin-layer" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-layer.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/sdk.git" />
+          <option name="name" value="sdk" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/sdk.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/server.git" />
+          <option name="name" value="server" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/server.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/studio.git" />
+          <option name="name" value="studio" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/studio.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/studio-deprecated.git" />
+          <option name="name" value="studio-deprecated" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/studio-deprecated.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyeditor/editorhome.git" />
+          <option name="name" value="editorHome" />
+          <option name="namespace" value="hyeditor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyeditor/editorhome.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/code-review-.git" />
+          <option name="name" value="code-review " />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/code-review-.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/demo-project.git" />
+          <option name="name" value="demo-project" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/demo-project.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/experience-.git" />
+          <option name="name" value="experience " />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/experience-.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/fe-rd-system.git" />
+          <option name="name" value="fe-rd-system" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/fe-rd-system.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/hy-react-demo.git" />
+          <option name="name" value="hy-react-demo" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/hy-react-demo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/share.git" />
+          <option name="name" value="share" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/share.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/visual-editor.git" />
+          <option name="name" value="visual-editor" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/visual-editor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/aimo.ai.git" />
+          <option name="name" value="aimo.ai" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/aimo.ai.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/bigdataplatform.git" />
+          <option name="name" value="bigdataPlatform" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/bigdataplatform.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/bijie.git" />
+          <option name="name" value="bijie" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/bijie.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/changzhou2.git" />
+          <option name="name" value="changzhou2" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/changzhou2.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/chendu.git" />
+          <option name="name" value="chendu" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/chendu.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/data-standard.git" />
+          <option name="name" value="data-standard" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/data-standard.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/diaisi-journal.git" />
+          <option name="name" value="diaisi-Journal" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/diaisi-journal.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/eyesight.git" />
+          <option name="name" value="eyesight" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/eyesight.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/fulin.git" />
+          <option name="name" value="fulin" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/fulin.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/guiyang.git" />
+          <option name="name" value="guiyang" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/guiyang.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/guizhoukuai-.git" />
+          <option name="name" value="guizhoukuai " />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/guizhoukuai-.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/gy-data-standard.git" />
+          <option name="name" value="gy-data-standard" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/gy-data-standard.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/huangnan-management-platform.git" />
+          <option name="name" value="huangnan-management-platform" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/huangnan-management-platform.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/interpol-college.git" />
+          <option name="name" value="interpol-college" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/interpol-college.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jiangsu-data-center.git" />
+          <option name="name" value="jiangsu-data-center" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jiangsu-data-center.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jiulongpo.git" />
+          <option name="name" value="jiulongpo" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jiulongpo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jizhen-dc.git" />
+          <option name="name" value="jizhen-dc" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jizhen-dc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jizhen-zyzh.git" />
+          <option name="name" value="jizhen-zyzh" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jizhen-zyzh.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/kunming.git" />
+          <option name="name" value="kunming" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/kunming.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/neumo.ai.git" />
+          <option name="name" value="neumo.ai" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/neumo.ai.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/project-doc.git" />
+          <option name="name" value="project-doc" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/project-doc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/qingbao.git" />
+          <option name="name" value="qingbao" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/qingbao.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/qingbao-wall.git" />
+          <option name="name" value="qingbao-wall" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/qingbao-wall.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/tianjin-node.git" />
+          <option name="name" value="tianjin-node" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/tianjin-node.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/tianjin-person.git" />
+          <option name="name" value="tianjin-person" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/tianjin-person.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/tianyan.git" />
+          <option name="name" value="tianyan" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/tianyan.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/wanda.git" />
+          <option name="name" value="wanda" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/wanda.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/wuhankanban.git" />
+          <option name="name" value="wuhankanban" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/wuhankanban.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/xingzhen.git" />
+          <option name="name" value="xingzhen" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/xingzhen.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/yizheng.git" />
+          <option name="name" value="yizheng" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/yizheng.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/yunnan.git" />
+          <option name="name" value="yunnan" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/yunnan.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/babel-plugin-editor.git" />
+          <option name="name" value="babel-plugin-editor" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/babel-plugin-editor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/cli.git" />
+          <option name="name" value="cli" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/cli.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/core.git" />
+          <option name="name" value="core" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/core.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/editor.git" />
+          <option name="name" value="editor" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/editor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/event-panel.git" />
+          <option name="name" value="event-panel" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/event-panel.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/expression.git" />
+          <option name="name" value="expression" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/expression.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/generator.git" />
+          <option name="name" value="generator" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/generator.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/generator-server.git" />
+          <option name="name" value="generator-server" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/generator-server.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/home.git" />
+          <option name="name" value="home" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/home.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-choose.git" />
+          <option name="name" value="plugin-choose" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-choose.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-data-driver.git" />
+          <option name="name" value="plugin-data-driver" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-data-driver.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-event.git" />
+          <option name="name" value="plugin-event" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-event.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-layer.git" />
+          <option name="name" value="plugin-layer" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-layer.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/sdk.git" />
+          <option name="name" value="sdk" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/sdk.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/server.git" />
+          <option name="name" value="server" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/server.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/studio.git" />
+          <option name="name" value="studio" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/studio.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/studio-deprecated.git" />
+          <option name="name" value="studio-deprecated" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/studio-deprecated.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyeditor/editorhome.git" />
+          <option name="name" value="editorHome" />
+          <option name="namespace" value="hyeditor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyeditor/editorhome.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/code-review-.git" />
+          <option name="name" value="code-review " />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/code-review-.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/demo-project.git" />
+          <option name="name" value="demo-project" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/demo-project.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/experience-.git" />
+          <option name="name" value="experience " />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/experience-.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/fe-rd-system.git" />
+          <option name="name" value="fe-rd-system" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/fe-rd-system.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/hy-react-demo.git" />
+          <option name="name" value="hy-react-demo" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/hy-react-demo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/share.git" />
+          <option name="name" value="share" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/share.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/visual-editor.git" />
+          <option name="name" value="visual-editor" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/visual-editor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/aimo.ai.git" />
+          <option name="name" value="aimo.ai" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/aimo.ai.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/bigdataplatform.git" />
+          <option name="name" value="bigdataPlatform" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/bigdataplatform.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/bijie.git" />
+          <option name="name" value="bijie" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/bijie.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/changzhou2.git" />
+          <option name="name" value="changzhou2" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/changzhou2.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/chendu.git" />
+          <option name="name" value="chendu" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/chendu.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/data-standard.git" />
+          <option name="name" value="data-standard" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/data-standard.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/diaisi-journal.git" />
+          <option name="name" value="diaisi-Journal" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/diaisi-journal.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/eyesight.git" />
+          <option name="name" value="eyesight" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/eyesight.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/fulin.git" />
+          <option name="name" value="fulin" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/fulin.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/guiyang.git" />
+          <option name="name" value="guiyang" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/guiyang.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/guizhoukuai-.git" />
+          <option name="name" value="guizhoukuai " />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/guizhoukuai-.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/gy-data-standard.git" />
+          <option name="name" value="gy-data-standard" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/gy-data-standard.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/huangnan-management-platform.git" />
+          <option name="name" value="huangnan-management-platform" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/huangnan-management-platform.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/interpol-college.git" />
+          <option name="name" value="interpol-college" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/interpol-college.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jiangsu-data-center.git" />
+          <option name="name" value="jiangsu-data-center" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jiangsu-data-center.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jiulongpo.git" />
+          <option name="name" value="jiulongpo" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jiulongpo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jizhen-dc.git" />
+          <option name="name" value="jizhen-dc" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jizhen-dc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jizhen-zyzh.git" />
+          <option name="name" value="jizhen-zyzh" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jizhen-zyzh.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/kunming.git" />
+          <option name="name" value="kunming" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/kunming.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/neumo.ai.git" />
+          <option name="name" value="neumo.ai" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/neumo.ai.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/project-doc.git" />
+          <option name="name" value="project-doc" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/project-doc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/qingbao.git" />
+          <option name="name" value="qingbao" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/qingbao.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/qingbao-wall.git" />
+          <option name="name" value="qingbao-wall" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/qingbao-wall.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/tianjin-node.git" />
+          <option name="name" value="tianjin-node" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/tianjin-node.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/tianjin-person.git" />
+          <option name="name" value="tianjin-person" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/tianjin-person.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/tianyan.git" />
+          <option name="name" value="tianyan" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/tianyan.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/wanda.git" />
+          <option name="name" value="wanda" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/wanda.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/wuhankanban.git" />
+          <option name="name" value="wuhankanban" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/wuhankanban.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/xingzhen.git" />
+          <option name="name" value="xingzhen" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/xingzhen.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/yizheng.git" />
+          <option name="name" value="yizheng" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/yizheng.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/yunnan.git" />
+          <option name="name" value="yunnan" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/yunnan.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/babel-plugin-editor.git" />
+          <option name="name" value="babel-plugin-editor" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/babel-plugin-editor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/cli.git" />
+          <option name="name" value="cli" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/cli.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/core.git" />
+          <option name="name" value="core" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/core.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/editor.git" />
+          <option name="name" value="editor" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/editor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/event-panel.git" />
+          <option name="name" value="event-panel" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/event-panel.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/expression.git" />
+          <option name="name" value="expression" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/expression.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/generator.git" />
+          <option name="name" value="generator" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/generator.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/generator-server.git" />
+          <option name="name" value="generator-server" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/generator-server.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/home.git" />
+          <option name="name" value="home" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/home.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-choose.git" />
+          <option name="name" value="plugin-choose" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-choose.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-data-driver.git" />
+          <option name="name" value="plugin-data-driver" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-data-driver.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-event.git" />
+          <option name="name" value="plugin-event" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-event.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-layer.git" />
+          <option name="name" value="plugin-layer" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-layer.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/sdk.git" />
+          <option name="name" value="sdk" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/sdk.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/server.git" />
+          <option name="name" value="server" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/server.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/studio.git" />
+          <option name="name" value="studio" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/studio.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/studio-deprecated.git" />
+          <option name="name" value="studio-deprecated" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/studio-deprecated.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyeditor/editorhome.git" />
+          <option name="name" value="editorHome" />
+          <option name="namespace" value="hyeditor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyeditor/editorhome.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/code-review-.git" />
+          <option name="name" value="code-review " />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/code-review-.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/demo-project.git" />
+          <option name="name" value="demo-project" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/demo-project.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/experience-.git" />
+          <option name="name" value="experience " />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/experience-.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/fe-rd-system.git" />
+          <option name="name" value="fe-rd-system" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/fe-rd-system.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/hy-react-demo.git" />
+          <option name="name" value="hy-react-demo" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/hy-react-demo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/share.git" />
+          <option name="name" value="share" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/share.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/visual-editor.git" />
+          <option name="name" value="visual-editor" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/visual-editor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/aimo.ai.git" />
+          <option name="name" value="aimo.ai" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/aimo.ai.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/bigdataplatform.git" />
+          <option name="name" value="bigdataPlatform" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/bigdataplatform.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/bijie.git" />
+          <option name="name" value="bijie" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/bijie.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/changzhou2.git" />
+          <option name="name" value="changzhou2" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/changzhou2.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/chendu.git" />
+          <option name="name" value="chendu" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/chendu.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/data-standard.git" />
+          <option name="name" value="data-standard" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/data-standard.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/diaisi-journal.git" />
+          <option name="name" value="diaisi-Journal" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/diaisi-journal.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/eyesight.git" />
+          <option name="name" value="eyesight" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/eyesight.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/fulin.git" />
+          <option name="name" value="fulin" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/fulin.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/guiyang.git" />
+          <option name="name" value="guiyang" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/guiyang.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/guizhoukuai-.git" />
+          <option name="name" value="guizhoukuai " />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/guizhoukuai-.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/gy-data-standard.git" />
+          <option name="name" value="gy-data-standard" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/gy-data-standard.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/huangnan-management-platform.git" />
+          <option name="name" value="huangnan-management-platform" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/huangnan-management-platform.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/interpol-college.git" />
+          <option name="name" value="interpol-college" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/interpol-college.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jiangsu-data-center.git" />
+          <option name="name" value="jiangsu-data-center" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jiangsu-data-center.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jiulongpo.git" />
+          <option name="name" value="jiulongpo" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jiulongpo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jizhen-dc.git" />
+          <option name="name" value="jizhen-dc" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jizhen-dc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jizhen-zyzh.git" />
+          <option name="name" value="jizhen-zyzh" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jizhen-zyzh.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/kunming.git" />
+          <option name="name" value="kunming" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/kunming.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/neumo.ai.git" />
+          <option name="name" value="neumo.ai" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/neumo.ai.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/project-doc.git" />
+          <option name="name" value="project-doc" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/project-doc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/qingbao.git" />
+          <option name="name" value="qingbao" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/qingbao.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/qingbao-wall.git" />
+          <option name="name" value="qingbao-wall" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/qingbao-wall.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/tianjin-node.git" />
+          <option name="name" value="tianjin-node" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/tianjin-node.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/tianjin-person.git" />
+          <option name="name" value="tianjin-person" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/tianjin-person.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/tianyan.git" />
+          <option name="name" value="tianyan" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/tianyan.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/wanda.git" />
+          <option name="name" value="wanda" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/wanda.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/wuhankanban.git" />
+          <option name="name" value="wuhankanban" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/wuhankanban.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/xingzhen.git" />
+          <option name="name" value="xingzhen" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/xingzhen.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/yizheng.git" />
+          <option name="name" value="yizheng" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/yizheng.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/yunnan.git" />
+          <option name="name" value="yunnan" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/yunnan.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/babel-plugin-editor.git" />
+          <option name="name" value="babel-plugin-editor" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/babel-plugin-editor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/cli.git" />
+          <option name="name" value="cli" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/cli.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/core.git" />
+          <option name="name" value="core" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/core.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/editor.git" />
+          <option name="name" value="editor" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/editor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/event-panel.git" />
+          <option name="name" value="event-panel" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/event-panel.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/expression.git" />
+          <option name="name" value="expression" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/expression.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/generator.git" />
+          <option name="name" value="generator" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/generator.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/generator-server.git" />
+          <option name="name" value="generator-server" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/generator-server.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/home.git" />
+          <option name="name" value="home" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/home.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-choose.git" />
+          <option name="name" value="plugin-choose" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-choose.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-data-driver.git" />
+          <option name="name" value="plugin-data-driver" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-data-driver.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-event.git" />
+          <option name="name" value="plugin-event" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-event.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-layer.git" />
+          <option name="name" value="plugin-layer" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-layer.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/sdk.git" />
+          <option name="name" value="sdk" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/sdk.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/server.git" />
+          <option name="name" value="server" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/server.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/studio.git" />
+          <option name="name" value="studio" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/studio.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/studio-deprecated.git" />
+          <option name="name" value="studio-deprecated" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/studio-deprecated.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyeditor/editorhome.git" />
+          <option name="name" value="editorHome" />
+          <option name="namespace" value="hyeditor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyeditor/editorhome.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/code-review-.git" />
+          <option name="name" value="code-review " />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/code-review-.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/demo-project.git" />
+          <option name="name" value="demo-project" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/demo-project.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/experience-.git" />
+          <option name="name" value="experience " />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/experience-.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/fe-rd-system.git" />
+          <option name="name" value="fe-rd-system" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/fe-rd-system.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/hy-react-demo.git" />
+          <option name="name" value="hy-react-demo" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/hy-react-demo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/share.git" />
+          <option name="name" value="share" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/share.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/visual-editor.git" />
+          <option name="name" value="visual-editor" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/visual-editor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/aimo.ai.git" />
+          <option name="name" value="aimo.ai" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/aimo.ai.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/bigdataplatform.git" />
+          <option name="name" value="bigdataPlatform" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/bigdataplatform.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/bijie.git" />
+          <option name="name" value="bijie" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/bijie.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/changzhou2.git" />
+          <option name="name" value="changzhou2" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/changzhou2.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/chendu.git" />
+          <option name="name" value="chendu" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/chendu.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/data-standard.git" />
+          <option name="name" value="data-standard" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/data-standard.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/diaisi-journal.git" />
+          <option name="name" value="diaisi-Journal" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/diaisi-journal.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/eyesight.git" />
+          <option name="name" value="eyesight" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/eyesight.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/fulin.git" />
+          <option name="name" value="fulin" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/fulin.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/guiyang.git" />
+          <option name="name" value="guiyang" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/guiyang.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/guizhoukuai-.git" />
+          <option name="name" value="guizhoukuai " />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/guizhoukuai-.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/gy-data-standard.git" />
+          <option name="name" value="gy-data-standard" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/gy-data-standard.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/huangnan-management-platform.git" />
+          <option name="name" value="huangnan-management-platform" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/huangnan-management-platform.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/interpol-college.git" />
+          <option name="name" value="interpol-college" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/interpol-college.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jiangsu-data-center.git" />
+          <option name="name" value="jiangsu-data-center" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jiangsu-data-center.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jiulongpo.git" />
+          <option name="name" value="jiulongpo" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jiulongpo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jizhen-dc.git" />
+          <option name="name" value="jizhen-dc" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jizhen-dc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jizhen-zyzh.git" />
+          <option name="name" value="jizhen-zyzh" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jizhen-zyzh.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/kunming.git" />
+          <option name="name" value="kunming" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/kunming.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/neumo.ai.git" />
+          <option name="name" value="neumo.ai" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/neumo.ai.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/project-doc.git" />
+          <option name="name" value="project-doc" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/project-doc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/qingbao.git" />
+          <option name="name" value="qingbao" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/qingbao.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/qingbao-wall.git" />
+          <option name="name" value="qingbao-wall" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/qingbao-wall.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/tianjin-node.git" />
+          <option name="name" value="tianjin-node" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/tianjin-node.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/tianjin-person.git" />
+          <option name="name" value="tianjin-person" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/tianjin-person.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/tianyan.git" />
+          <option name="name" value="tianyan" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/tianyan.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/wanda.git" />
+          <option name="name" value="wanda" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/wanda.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/wuhankanban.git" />
+          <option name="name" value="wuhankanban" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/wuhankanban.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/xingzhen.git" />
+          <option name="name" value="xingzhen" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/xingzhen.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/yizheng.git" />
+          <option name="name" value="yizheng" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/yizheng.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/yunnan.git" />
+          <option name="name" value="yunnan" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/yunnan.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/babel-plugin-editor.git" />
+          <option name="name" value="babel-plugin-editor" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/babel-plugin-editor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/cli.git" />
+          <option name="name" value="cli" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/cli.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/core.git" />
+          <option name="name" value="core" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/core.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/editor.git" />
+          <option name="name" value="editor" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/editor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/event-panel.git" />
+          <option name="name" value="event-panel" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/event-panel.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/expression.git" />
+          <option name="name" value="expression" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/expression.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/generator.git" />
+          <option name="name" value="generator" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/generator.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/generator-server.git" />
+          <option name="name" value="generator-server" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/generator-server.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/home.git" />
+          <option name="name" value="home" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/home.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-choose.git" />
+          <option name="name" value="plugin-choose" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-choose.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-data-driver.git" />
+          <option name="name" value="plugin-data-driver" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-data-driver.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-event.git" />
+          <option name="name" value="plugin-event" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-event.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-layer.git" />
+          <option name="name" value="plugin-layer" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-layer.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/sdk.git" />
+          <option name="name" value="sdk" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/sdk.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/server.git" />
+          <option name="name" value="server" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/server.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/studio.git" />
+          <option name="name" value="studio" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/studio.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/studio-deprecated.git" />
+          <option name="name" value="studio-deprecated" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/studio-deprecated.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyeditor/editorhome.git" />
+          <option name="name" value="editorHome" />
+          <option name="namespace" value="hyeditor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyeditor/editorhome.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/code-review-.git" />
+          <option name="name" value="code-review " />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/code-review-.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/demo-project.git" />
+          <option name="name" value="demo-project" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/demo-project.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/experience-.git" />
+          <option name="name" value="experience " />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/experience-.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/fe-rd-system.git" />
+          <option name="name" value="fe-rd-system" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/fe-rd-system.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/hy-react-demo.git" />
+          <option name="name" value="hy-react-demo" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/hy-react-demo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/share.git" />
+          <option name="name" value="share" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/share.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/visual-editor.git" />
+          <option name="name" value="visual-editor" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/visual-editor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/aimo.ai.git" />
+          <option name="name" value="aimo.ai" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/aimo.ai.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/bigdataplatform.git" />
+          <option name="name" value="bigdataPlatform" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/bigdataplatform.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/bijie.git" />
+          <option name="name" value="bijie" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/bijie.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/changzhou2.git" />
+          <option name="name" value="changzhou2" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/changzhou2.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/chendu.git" />
+          <option name="name" value="chendu" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/chendu.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/data-standard.git" />
+          <option name="name" value="data-standard" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/data-standard.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/diaisi-journal.git" />
+          <option name="name" value="diaisi-Journal" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/diaisi-journal.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/eyesight.git" />
+          <option name="name" value="eyesight" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/eyesight.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/fulin.git" />
+          <option name="name" value="fulin" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/fulin.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/guiyang.git" />
+          <option name="name" value="guiyang" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/guiyang.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/guizhoukuai-.git" />
+          <option name="name" value="guizhoukuai " />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/guizhoukuai-.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/gy-data-standard.git" />
+          <option name="name" value="gy-data-standard" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/gy-data-standard.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/huangnan-management-platform.git" />
+          <option name="name" value="huangnan-management-platform" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/huangnan-management-platform.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/interpol-college.git" />
+          <option name="name" value="interpol-college" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/interpol-college.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jiangsu-data-center.git" />
+          <option name="name" value="jiangsu-data-center" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jiangsu-data-center.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jiulongpo.git" />
+          <option name="name" value="jiulongpo" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jiulongpo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jizhen-dc.git" />
+          <option name="name" value="jizhen-dc" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jizhen-dc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jizhen-zyzh.git" />
+          <option name="name" value="jizhen-zyzh" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jizhen-zyzh.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/kunming.git" />
+          <option name="name" value="kunming" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/kunming.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/neumo.ai.git" />
+          <option name="name" value="neumo.ai" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/neumo.ai.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/project-doc.git" />
+          <option name="name" value="project-doc" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/project-doc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/qingbao.git" />
+          <option name="name" value="qingbao" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/qingbao.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/qingbao-wall.git" />
+          <option name="name" value="qingbao-wall" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/qingbao-wall.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/tianjin-node.git" />
+          <option name="name" value="tianjin-node" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/tianjin-node.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/tianjin-person.git" />
+          <option name="name" value="tianjin-person" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/tianjin-person.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/tianyan.git" />
+          <option name="name" value="tianyan" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/tianyan.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/wanda.git" />
+          <option name="name" value="wanda" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/wanda.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/wuhankanban.git" />
+          <option name="name" value="wuhankanban" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/wuhankanban.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/xingzhen.git" />
+          <option name="name" value="xingzhen" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/xingzhen.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/yizheng.git" />
+          <option name="name" value="yizheng" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/yizheng.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/yunnan.git" />
+          <option name="name" value="yunnan" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/yunnan.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/babel-plugin-editor.git" />
+          <option name="name" value="babel-plugin-editor" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/babel-plugin-editor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/cli.git" />
+          <option name="name" value="cli" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/cli.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/core.git" />
+          <option name="name" value="core" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/core.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/editor.git" />
+          <option name="name" value="editor" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/editor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/event-panel.git" />
+          <option name="name" value="event-panel" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/event-panel.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/expression.git" />
+          <option name="name" value="expression" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/expression.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/generator.git" />
+          <option name="name" value="generator" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/generator.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/generator-server.git" />
+          <option name="name" value="generator-server" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/generator-server.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/home.git" />
+          <option name="name" value="home" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/home.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-choose.git" />
+          <option name="name" value="plugin-choose" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-choose.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-data-driver.git" />
+          <option name="name" value="plugin-data-driver" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-data-driver.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-event.git" />
+          <option name="name" value="plugin-event" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-event.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-layer.git" />
+          <option name="name" value="plugin-layer" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-layer.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/sdk.git" />
+          <option name="name" value="sdk" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/sdk.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/server.git" />
+          <option name="name" value="server" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/server.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/studio.git" />
+          <option name="name" value="studio" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/studio.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/studio-deprecated.git" />
+          <option name="name" value="studio-deprecated" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/studio-deprecated.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyeditor/editorhome.git" />
+          <option name="name" value="editorHome" />
+          <option name="namespace" value="hyeditor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyeditor/editorhome.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/code-review-.git" />
+          <option name="name" value="code-review " />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/code-review-.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/demo-project.git" />
+          <option name="name" value="demo-project" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/demo-project.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/experience-.git" />
+          <option name="name" value="experience " />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/experience-.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/fe-rd-system.git" />
+          <option name="name" value="fe-rd-system" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/fe-rd-system.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/hy-react-demo.git" />
+          <option name="name" value="hy-react-demo" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/hy-react-demo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/share.git" />
+          <option name="name" value="share" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/share.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/visual-editor.git" />
+          <option name="name" value="visual-editor" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/visual-editor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/aimo.ai.git" />
+          <option name="name" value="aimo.ai" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/aimo.ai.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/bigdataplatform.git" />
+          <option name="name" value="bigdataPlatform" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/bigdataplatform.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/bijie.git" />
+          <option name="name" value="bijie" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/bijie.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/changzhou2.git" />
+          <option name="name" value="changzhou2" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/changzhou2.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/chendu.git" />
+          <option name="name" value="chendu" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/chendu.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/data-standard.git" />
+          <option name="name" value="data-standard" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/data-standard.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/diaisi-journal.git" />
+          <option name="name" value="diaisi-Journal" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/diaisi-journal.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/eyesight.git" />
+          <option name="name" value="eyesight" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/eyesight.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/fulin.git" />
+          <option name="name" value="fulin" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/fulin.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/guiyang.git" />
+          <option name="name" value="guiyang" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/guiyang.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/guizhoukuai-.git" />
+          <option name="name" value="guizhoukuai " />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/guizhoukuai-.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/gy-data-standard.git" />
+          <option name="name" value="gy-data-standard" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/gy-data-standard.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/huangnan-management-platform.git" />
+          <option name="name" value="huangnan-management-platform" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/huangnan-management-platform.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/interpol-college.git" />
+          <option name="name" value="interpol-college" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/interpol-college.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jiangsu-data-center.git" />
+          <option name="name" value="jiangsu-data-center" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jiangsu-data-center.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jiulongpo.git" />
+          <option name="name" value="jiulongpo" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jiulongpo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jizhen-dc.git" />
+          <option name="name" value="jizhen-dc" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jizhen-dc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jizhen-zyzh.git" />
+          <option name="name" value="jizhen-zyzh" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jizhen-zyzh.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/kunming.git" />
+          <option name="name" value="kunming" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/kunming.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/neumo.ai.git" />
+          <option name="name" value="neumo.ai" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/neumo.ai.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/project-doc.git" />
+          <option name="name" value="project-doc" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/project-doc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/qingbao.git" />
+          <option name="name" value="qingbao" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/qingbao.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/qingbao-wall.git" />
+          <option name="name" value="qingbao-wall" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/qingbao-wall.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/tianjin-node.git" />
+          <option name="name" value="tianjin-node" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/tianjin-node.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/tianjin-person.git" />
+          <option name="name" value="tianjin-person" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/tianjin-person.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/tianyan.git" />
+          <option name="name" value="tianyan" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/tianyan.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/wanda.git" />
+          <option name="name" value="wanda" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/wanda.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/wuhankanban.git" />
+          <option name="name" value="wuhankanban" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/wuhankanban.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/xingzhen.git" />
+          <option name="name" value="xingzhen" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/xingzhen.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/yizheng.git" />
+          <option name="name" value="yizheng" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/yizheng.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/yunnan.git" />
+          <option name="name" value="yunnan" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/yunnan.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/babel-plugin-editor.git" />
+          <option name="name" value="babel-plugin-editor" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/babel-plugin-editor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/cli.git" />
+          <option name="name" value="cli" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/cli.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/core.git" />
+          <option name="name" value="core" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/core.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/editor.git" />
+          <option name="name" value="editor" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/editor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/event-panel.git" />
+          <option name="name" value="event-panel" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/event-panel.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/expression.git" />
+          <option name="name" value="expression" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/expression.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/generator.git" />
+          <option name="name" value="generator" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/generator.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/generator-server.git" />
+          <option name="name" value="generator-server" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/generator-server.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/home.git" />
+          <option name="name" value="home" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/home.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-choose.git" />
+          <option name="name" value="plugin-choose" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-choose.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-data-driver.git" />
+          <option name="name" value="plugin-data-driver" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-data-driver.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-event.git" />
+          <option name="name" value="plugin-event" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-event.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-layer.git" />
+          <option name="name" value="plugin-layer" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-layer.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/sdk.git" />
+          <option name="name" value="sdk" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/sdk.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/server.git" />
+          <option name="name" value="server" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/server.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/studio.git" />
+          <option name="name" value="studio" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/studio.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/studio-deprecated.git" />
+          <option name="name" value="studio-deprecated" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/studio-deprecated.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyeditor/editorhome.git" />
+          <option name="name" value="editorHome" />
+          <option name="namespace" value="hyeditor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyeditor/editorhome.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/code-review-.git" />
+          <option name="name" value="code-review " />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/code-review-.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/demo-project.git" />
+          <option name="name" value="demo-project" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/demo-project.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/experience-.git" />
+          <option name="name" value="experience " />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/experience-.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/fe-rd-system.git" />
+          <option name="name" value="fe-rd-system" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/fe-rd-system.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/hy-react-demo.git" />
+          <option name="name" value="hy-react-demo" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/hy-react-demo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/share.git" />
+          <option name="name" value="share" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/share.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/visual-editor.git" />
+          <option name="name" value="visual-editor" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/visual-editor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/aimo.ai.git" />
+          <option name="name" value="aimo.ai" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/aimo.ai.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/bigdataplatform.git" />
+          <option name="name" value="bigdataPlatform" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/bigdataplatform.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/bijie.git" />
+          <option name="name" value="bijie" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/bijie.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/changzhou2.git" />
+          <option name="name" value="changzhou2" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/changzhou2.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/chendu.git" />
+          <option name="name" value="chendu" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/chendu.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/data-standard.git" />
+          <option name="name" value="data-standard" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/data-standard.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/diaisi-journal.git" />
+          <option name="name" value="diaisi-Journal" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/diaisi-journal.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/eyesight.git" />
+          <option name="name" value="eyesight" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/eyesight.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/fulin.git" />
+          <option name="name" value="fulin" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/fulin.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/guiyang.git" />
+          <option name="name" value="guiyang" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/guiyang.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/guizhoukuai-.git" />
+          <option name="name" value="guizhoukuai " />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/guizhoukuai-.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/gy-data-standard.git" />
+          <option name="name" value="gy-data-standard" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/gy-data-standard.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/huangnan-management-platform.git" />
+          <option name="name" value="huangnan-management-platform" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/huangnan-management-platform.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/interpol-college.git" />
+          <option name="name" value="interpol-college" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/interpol-college.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jiangsu-data-center.git" />
+          <option name="name" value="jiangsu-data-center" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jiangsu-data-center.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jiulongpo.git" />
+          <option name="name" value="jiulongpo" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jiulongpo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jizhen-dc.git" />
+          <option name="name" value="jizhen-dc" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jizhen-dc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jizhen-zyzh.git" />
+          <option name="name" value="jizhen-zyzh" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jizhen-zyzh.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/kunming.git" />
+          <option name="name" value="kunming" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/kunming.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/neumo.ai.git" />
+          <option name="name" value="neumo.ai" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/neumo.ai.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/project-doc.git" />
+          <option name="name" value="project-doc" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/project-doc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/qingbao.git" />
+          <option name="name" value="qingbao" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/qingbao.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/qingbao-wall.git" />
+          <option name="name" value="qingbao-wall" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/qingbao-wall.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/tianjin-node.git" />
+          <option name="name" value="tianjin-node" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/tianjin-node.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/tianjin-person.git" />
+          <option name="name" value="tianjin-person" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/tianjin-person.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/tianyan.git" />
+          <option name="name" value="tianyan" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/tianyan.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/wanda.git" />
+          <option name="name" value="wanda" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/wanda.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/wuhankanban.git" />
+          <option name="name" value="wuhankanban" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/wuhankanban.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/xingzhen.git" />
+          <option name="name" value="xingzhen" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/xingzhen.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/yizheng.git" />
+          <option name="name" value="yizheng" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/yizheng.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/yunnan.git" />
+          <option name="name" value="yunnan" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/yunnan.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/babel-plugin-editor.git" />
+          <option name="name" value="babel-plugin-editor" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/babel-plugin-editor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/cli.git" />
+          <option name="name" value="cli" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/cli.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/core.git" />
+          <option name="name" value="core" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/core.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/editor.git" />
+          <option name="name" value="editor" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/editor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/event-panel.git" />
+          <option name="name" value="event-panel" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/event-panel.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/expression.git" />
+          <option name="name" value="expression" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/expression.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/generator.git" />
+          <option name="name" value="generator" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/generator.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/generator-server.git" />
+          <option name="name" value="generator-server" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/generator-server.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/home.git" />
+          <option name="name" value="home" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/home.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-choose.git" />
+          <option name="name" value="plugin-choose" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-choose.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-data-driver.git" />
+          <option name="name" value="plugin-data-driver" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-data-driver.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-event.git" />
+          <option name="name" value="plugin-event" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-event.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-layer.git" />
+          <option name="name" value="plugin-layer" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-layer.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/sdk.git" />
+          <option name="name" value="sdk" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/sdk.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/server.git" />
+          <option name="name" value="server" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/server.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/studio.git" />
+          <option name="name" value="studio" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/studio.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/studio-deprecated.git" />
+          <option name="name" value="studio-deprecated" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/studio-deprecated.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyeditor/editorhome.git" />
+          <option name="name" value="editorHome" />
+          <option name="namespace" value="hyeditor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyeditor/editorhome.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/code-review-.git" />
+          <option name="name" value="code-review " />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/code-review-.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/demo-project.git" />
+          <option name="name" value="demo-project" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/demo-project.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/experience-.git" />
+          <option name="name" value="experience " />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/experience-.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/fe-rd-system.git" />
+          <option name="name" value="fe-rd-system" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/fe-rd-system.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/hy-react-demo.git" />
+          <option name="name" value="hy-react-demo" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/hy-react-demo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/share.git" />
+          <option name="name" value="share" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/share.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/visual-editor.git" />
+          <option name="name" value="visual-editor" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/visual-editor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/aimo.ai.git" />
+          <option name="name" value="aimo.ai" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/aimo.ai.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/bigdataplatform.git" />
+          <option name="name" value="bigdataPlatform" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/bigdataplatform.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/bijie.git" />
+          <option name="name" value="bijie" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/bijie.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/changzhou2.git" />
+          <option name="name" value="changzhou2" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/changzhou2.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/chendu.git" />
+          <option name="name" value="chendu" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/chendu.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/data-standard.git" />
+          <option name="name" value="data-standard" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/data-standard.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/diaisi-journal.git" />
+          <option name="name" value="diaisi-Journal" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/diaisi-journal.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/eyesight.git" />
+          <option name="name" value="eyesight" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/eyesight.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/fulin.git" />
+          <option name="name" value="fulin" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/fulin.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/guiyang.git" />
+          <option name="name" value="guiyang" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/guiyang.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/guizhoukuai-.git" />
+          <option name="name" value="guizhoukuai " />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/guizhoukuai-.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/gy-data-standard.git" />
+          <option name="name" value="gy-data-standard" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/gy-data-standard.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/huangnan-management-platform.git" />
+          <option name="name" value="huangnan-management-platform" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/huangnan-management-platform.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/interpol-college.git" />
+          <option name="name" value="interpol-college" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/interpol-college.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jiangsu-data-center.git" />
+          <option name="name" value="jiangsu-data-center" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jiangsu-data-center.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jiulongpo.git" />
+          <option name="name" value="jiulongpo" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jiulongpo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jizhen-dc.git" />
+          <option name="name" value="jizhen-dc" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jizhen-dc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jizhen-zyzh.git" />
+          <option name="name" value="jizhen-zyzh" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jizhen-zyzh.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/kunming.git" />
+          <option name="name" value="kunming" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/kunming.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/neumo.ai.git" />
+          <option name="name" value="neumo.ai" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/neumo.ai.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/project-doc.git" />
+          <option name="name" value="project-doc" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/project-doc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/qingbao.git" />
+          <option name="name" value="qingbao" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/qingbao.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/qingbao-wall.git" />
+          <option name="name" value="qingbao-wall" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/qingbao-wall.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/tianjin-node.git" />
+          <option name="name" value="tianjin-node" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/tianjin-node.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/tianjin-person.git" />
+          <option name="name" value="tianjin-person" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/tianjin-person.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/tianyan.git" />
+          <option name="name" value="tianyan" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/tianyan.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/wanda.git" />
+          <option name="name" value="wanda" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/wanda.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/wuhankanban.git" />
+          <option name="name" value="wuhankanban" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/wuhankanban.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/xingzhen.git" />
+          <option name="name" value="xingzhen" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/xingzhen.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/yizheng.git" />
+          <option name="name" value="yizheng" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/yizheng.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/yunnan.git" />
+          <option name="name" value="yunnan" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/yunnan.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/babel-plugin-editor.git" />
+          <option name="name" value="babel-plugin-editor" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/babel-plugin-editor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/cli.git" />
+          <option name="name" value="cli" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/cli.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/core.git" />
+          <option name="name" value="core" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/core.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/editor.git" />
+          <option name="name" value="editor" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/editor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/event-panel.git" />
+          <option name="name" value="event-panel" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/event-panel.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/expression.git" />
+          <option name="name" value="expression" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/expression.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/generator.git" />
+          <option name="name" value="generator" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/generator.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/generator-server.git" />
+          <option name="name" value="generator-server" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/generator-server.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/home.git" />
+          <option name="name" value="home" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/home.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-choose.git" />
+          <option name="name" value="plugin-choose" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-choose.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-data-driver.git" />
+          <option name="name" value="plugin-data-driver" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-data-driver.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-event.git" />
+          <option name="name" value="plugin-event" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-event.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/plugin-layer.git" />
+          <option name="name" value="plugin-layer" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/plugin-layer.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/sdk.git" />
+          <option name="name" value="sdk" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/sdk.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/server.git" />
+          <option name="name" value="server" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/server.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/studio.git" />
+          <option name="name" value="studio" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/studio.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/editor/studio-deprecated.git" />
+          <option name="name" value="studio-deprecated" />
+          <option name="namespace" value="editor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/editor/studio-deprecated.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyeditor/editorhome.git" />
+          <option name="name" value="editorHome" />
+          <option name="namespace" value="hyeditor" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyeditor/editorhome.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/code-review-.git" />
+          <option name="name" value="code-review " />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/code-review-.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/demo-project.git" />
+          <option name="name" value="demo-project" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/demo-project.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/experience-.git" />
+          <option name="name" value="experience " />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/experience-.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/fe-rd-system.git" />
+          <option name="name" value="fe-rd-system" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/fe-rd-system.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/hy-react-demo.git" />
+          <option name="name" value="hy-react-demo" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/hy-react-demo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/share.git" />
+          <option name="name" value="share" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/share.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyfe/visual-editor.git" />
+          <option name="name" value="visual-editor" />
+          <option name="namespace" value="hyfe" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyfe/visual-editor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/aimo.ai.git" />
+          <option name="name" value="aimo.ai" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/aimo.ai.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/bigdataplatform.git" />
+          <option name="name" value="bigdataPlatform" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/bigdataplatform.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/bijie.git" />
+          <option name="name" value="bijie" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/bijie.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/changzhou2.git" />
+          <option name="name" value="changzhou2" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/changzhou2.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/chendu.git" />
+          <option name="name" value="chengdu-commandCenter" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/chendu.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/chengdu-commandcenter-normal.git" />
+          <option name="name" value="chengdu-commandCenter-normal" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/chengdu-commandcenter-normal.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/chengdu-syntheticcombat.git" />
+          <option name="name" value="chengdu-syntheticCombat" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/chengdu-syntheticcombat.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/data-standard.git" />
+          <option name="name" value="data-standard" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/data-standard.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/diaisi-journal.git" />
+          <option name="name" value="diaisi-Journal" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/diaisi-journal.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/eyesight.git" />
+          <option name="name" value="eyesight" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/eyesight.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/fulin.git" />
+          <option name="name" value="fulin" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/fulin.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/guiyang.git" />
+          <option name="name" value="guiyang" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/guiyang.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/guizhoukuai-.git" />
+          <option name="name" value="guizhoukuai " />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/guizhoukuai-.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/gy-data-standard.git" />
+          <option name="name" value="gy-data-standard" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/gy-data-standard.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/huangnan-management-platform.git" />
+          <option name="name" value="huangnan-management-platform" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/huangnan-management-platform.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/interpol-college.git" />
+          <option name="name" value="interpol-college" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/interpol-college.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jiangsu-data-center.git" />
+          <option name="name" value="jiangsu-data-center" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jiangsu-data-center.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jiulongpo.git" />
+          <option name="name" value="jiulongpo" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jiulongpo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jizhen-dc.git" />
+          <option name="name" value="jizhen-dc" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jizhen-dc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/jizhen-zyzh.git" />
+          <option name="name" value="jizhen-zyzh" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/jizhen-zyzh.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/kunming.git" />
+          <option name="name" value="kunming" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/kunming.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/neumo.ai.git" />
+          <option name="name" value="neumo.ai" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/neumo.ai.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/project-doc.git" />
+          <option name="name" value="project-doc" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/project-doc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/qingbao.git" />
+          <option name="name" value="qingbao" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/qingbao.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/qingbao-wall.git" />
+          <option name="name" value="qingbao-wall" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/qingbao-wall.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/tianjin-node.git" />
+          <option name="name" value="tianjin-node" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/tianjin-node.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/tianjin-person.git" />
+          <option name="name" value="tianjin-person" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/tianjin-person.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/tianyan.git" />
+          <option name="name" value="tianyan" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/tianyan.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/wanda.git" />
+          <option name="name" value="wanda" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/wanda.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/wuhankanban.git" />
+          <option name="name" value="wuhankanban" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/wuhankanban.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/xingzhen.git" />
+          <option name="name" value="xingzhen" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/xingzhen.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/yizheng.git" />
+          <option name="name" value="yizheng" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/yizheng.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://192.168.5.11:10080/hyprojects/yunnan.git" />
+          <option name="name" value="yunnan" />
+          <option name="namespace" value="hyprojects" />
+          <option name="sshUrl" value="ssh://git@192.168.5.11:10022/hyprojects/yunnan.git" />
+        </ProjectDto>
+      </list>
+    </option>
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiToken" value="u77GgzR4Dm3CPzzEgTbq" />
+          <option name="apiUrl" value="http://192.168.5.11:10080" />
+          <option name="repositoryUrl" value="192.168.5.11" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>
