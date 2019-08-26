@@ -1,0 +1,11 @@
+<application>
+  <component name="InlayHintsSettings">
+    <settingsMapElement>
+      <TypeScript.ts.chain.hints>
+        <Settings>
+          <option name="uniqueTypeCount" value="10" />
+        </Settings>
+      </TypeScript.ts.chain.hints>
+    </settingsMapElement>
+  </component>
+</application>
