@@ -1,4 +1,10 @@
 <keymap version="1" name="Default for Windows copy" parent="$default">
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="ctrl alt 0" />
+  </action>
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="ctrl alt 0" />
+  </action>
   <action id="NewElementMenu">
     <keyboard-shortcut first-keystroke="alt minus" />
   </action>
