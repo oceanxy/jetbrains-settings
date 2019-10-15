@@ -21,6 +21,7 @@
       <mapping pattern="App" type="JavaScript" />
       <mapping pattern="notes" type="Markdown" />
       <mapping pattern="LICENSE" type="Native" />
+      <mapping pattern="build.js" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
