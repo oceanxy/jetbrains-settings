@@ -1,7 +1,7 @@
 <templateSet group="user">
   <template name="comm" value="/**&#10; * @Author: $name$&#10; * @Email: $email$&#10; * @Description: $des$&#10; * @Date: $datetime$&#10; * @LastModified: $updatename$&#10; * @LastModifiedTime: $updatetime$&#10; */&#10;" description="快速填充文件头公司注释" toReformat="true" toShortenFQNames="true">
     <variable name="datetime" expression="date(&quot;yyyy-MM-dd HH:mm:ss&quot;)" defaultValue="" alwaysStopAt="false" />
-    <variable name="email" expression="&quot;xieyang@hiynn.com&quot;" defaultValue="" alwaysStopAt="false" />
+    <variable name="email" expression="&quot;xieyang@zwlbs.com&quot;" defaultValue="" alwaysStopAt="false" />
     <variable name="name" expression="&quot;Oceanxy&quot;" defaultValue="" alwaysStopAt="false" />
     <variable name="des" expression="&quot;&quot;" defaultValue="" alwaysStopAt="false" />
     <variable name="updatename" expression="&quot;Oceanxy&quot;" defaultValue="" alwaysStopAt="false" />
@@ -11,7 +11,7 @@
     </context>
   </template>
   <template name="upc" value=" * @LastModified: $updatename$&#10; * @LastModifiedTime: $updatetime$" description="文件更新公司信息注释" toReformat="true" toShortenFQNames="true">
-    <variable name="updatename" expression="&quot;Oceanxy（xieyang@hiynn.com）&quot;" defaultValue="" alwaysStopAt="false" />
+    <variable name="updatename" expression="&quot;Oceanxy（xieyang@zwlbs.com）&quot;" defaultValue="" alwaysStopAt="false" />
     <variable name="updatetime" expression="date(&quot;yyyy-MM-dd HH:mm:ss&quot;)" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
@@ -19,7 +19,7 @@
   </template>
   <template name="upp" value=" * @Date: $datetime$&#10; * @LastModified: $updatename$&#10; * @LastModifiedTime: $updatetime$" description="文件更新公司个人信息注释，含date" toReformat="true" toShortenFQNames="true">
     <variable name="datetime" expression="date(&quot;yyyy-MM-dd HH:mm:ss&quot;)" defaultValue="" alwaysStopAt="false" />
-    <variable name="updatename" expression="&quot;Oceanxy（xieyang@hiynn.com）&quot;" defaultValue="" alwaysStopAt="false" />
+    <variable name="updatename" expression="&quot;Oceanxy（xieyang@zwlbs.com）&quot;" defaultValue="" alwaysStopAt="false" />
     <variable name="updatetime" expression="date(&quot;yyyy-MM-dd HH:mm:ss&quot;)" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
