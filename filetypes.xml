@@ -23,6 +23,7 @@
       <mapping pattern="LICENSE" type="Native" />
       <mapping pattern="build.js" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
