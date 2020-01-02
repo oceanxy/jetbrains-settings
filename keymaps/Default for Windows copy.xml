@@ -8,6 +8,9 @@
   <action id="Git.Clone">
     <keyboard-shortcut first-keystroke="shift ctrl alt o" />
   </action>
+  <action id="Git.Configure.Remotes">
+    <keyboard-shortcut first-keystroke="ctrl alt back_slash" />
+  </action>
   <action id="NewElementMenu">
     <keyboard-shortcut first-keystroke="alt minus" />
   </action>
