@@ -7,7 +7,6 @@
       <mapping ext="tpl" type="Handlebars/Mustache" />
       <mapping ext="eslintrc" type="JSON" />
       <mapping pattern="App" type="JavaScript" />
-      <mapping pattern="notes" type="Markdown" />
       <mapping pattern="LICENSE" type="Native" />
       <mapping pattern="build.js" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
@@ -27,6 +26,7 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping pattern="notes" type="Markdown" />
     </extensionMap>
   </component>
 </application>
