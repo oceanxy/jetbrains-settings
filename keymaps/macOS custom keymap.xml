@@ -5,6 +5,10 @@
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta back_space" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="meta g" />
     <keyboard-shortcut first-keystroke="f3" />
