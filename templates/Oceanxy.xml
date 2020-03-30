@@ -7,4 +7,34 @@
       <option name="Vue" value="true" />
     </context>
   </template>
+  <template name="upc" value=" * @Date: $date$&#10;* @LastModified: Oceanxy(xieyang@zwlbs.com)&#10;* @LastModifiedTime: $date$" description="更新文件创建时间" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date(&quot;yyyy-MM-dd E HH:MM:dd&quot;)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="upp" value=" * @LastModified: Oceanxy(xieyang@zwlbs.com)&#10;* @LastModifiedTime: $date$" description="更新文件修改时间" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date(&quot;yyyy-MM-dd E HH:MM:dd&quot;)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="cl" value="console.log($END$);" description="console.log();" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="cls" value="console.log($END$);" description="console.log(string);" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
 </templateSet>
