@@ -1,1 +1,14 @@
-<keymap version="1" name="Windows custom keymap" parent="$default" />
+<keymap version="1" name="Windows custom keymap" parent="$default">
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
+  <action id="Git.Clone">
+    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
+  </action>
+  <action id="Git.Configure.Remotes">
+    <keyboard-shortcut first-keystroke="ctrl alt back_slash" />
+  </action>
+</keymap>
