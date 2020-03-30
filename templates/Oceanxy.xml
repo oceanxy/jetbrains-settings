@@ -1,0 +1,10 @@
+<templateSet group="Oceanxy">
+  <template name="comm" value="/**&#10; * @Author: Oceanxy&#10; * @Email: xieyang@zwlbs.com&#10; * @Description: $END$&#10; * @Date: $date$&#10; * @LastModified: Oceanxy（xieyang@zwlbs.com）&#10; * @LastModifiedTime: $date$&#10; */&#10; &#10;" description="文件注释" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date(&quot;yyyy-MM-dd E HH:MM:dd&quot;)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+</templateSet>
