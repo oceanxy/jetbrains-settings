@@ -1,6 +1,6 @@
 <templateSet group="Oceanxy">
   <template name="comm" value="/**&#10; * @Author: Oceanxy&#10; * @Email: xieyang@zwlbs.com&#10; * @Description: $END$&#10; * @Date: $date$&#10; * @LastModified: Oceanxy（xieyang@zwlbs.com）&#10; * @LastModifiedTime: $date$&#10; */&#10; &#10;" description="文件注释" toReformat="false" toShortenFQNames="true">
-    <variable name="date" expression="date(&quot;yyyy-MM-dd E HH:MM:dd&quot;)" defaultValue="" alwaysStopAt="false" />
+    <variable name="date" expression="date(&quot;yyyy-MM-dd E HH:mm:ss&quot;)" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
@@ -8,7 +8,7 @@
     </context>
   </template>
   <template name="upc" value=" * @Date: $date$&#10;* @LastModified: Oceanxy(xieyang@zwlbs.com)&#10;* @LastModifiedTime: $date$" description="更新文件创建时间" toReformat="false" toShortenFQNames="true">
-    <variable name="date" expression="date(&quot;yyyy-MM-dd E HH:MM:dd&quot;)" defaultValue="" alwaysStopAt="false" />
+    <variable name="date" expression="date(&quot;yyyy-MM-dd E HH:mm:ss&quot;)" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
@@ -16,7 +16,7 @@
     </context>
   </template>
   <template name="upp" value=" * @LastModified: Oceanxy(xieyang@zwlbs.com)&#10;* @LastModifiedTime: $date$" description="更新文件修改时间" toReformat="false" toShortenFQNames="true">
-    <variable name="date" expression="date(&quot;yyyy-MM-dd E HH:MM:dd&quot;)" defaultValue="" alwaysStopAt="false" />
+    <variable name="date" expression="date(&quot;yyyy-MM-dd E HH:mm:ss&quot;)" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
