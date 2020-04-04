@@ -1,4 +1,4 @@
-<keymap version="1" name="Windows custom keymap" parent="$default">
+<keymap version="1" name="macOS custome keymap" parent="Mac OS X 10.5+">
   <action id="$LRU">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
