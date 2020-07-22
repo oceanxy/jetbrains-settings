@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="预约" />
       <item value="waves" />
       <item value="staging" />
       <item value="['X-Token'] is a custom headers key" />
@@ -13,7 +14,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
+        <entry key="CHINESE" value="10" />
         <entry key="ENGLISH" value="10" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
