@@ -1,4 +1,5 @@
 <code_scheme name="Default" version="173">
+  <option name="AUTODETECT_INDENTS" value="false" />
   <DBN-PSQL>
     <case-options enabled="true">
       <option name="KEYWORD_CASE" value="lower" />
@@ -48,11 +49,16 @@
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="ENFORCE_QUOTES_ON_FORMAT" value="true" />
   </ScssCodeStyleSettings>
+  <VueCodeStyleSettings>
+    <option name="INTERPOLATION_WRAP" value="1" />
+  </VueCodeStyleSettings>
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
   <codeStyleSettings language="HTML">
     <option name="RIGHT_MARGIN" value="120" />
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
@@ -71,6 +77,7 @@
     </arrangement>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
@@ -79,6 +86,14 @@
   </codeStyleSettings>
   <codeStyleSettings language="SCSS">
     <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="TypeScript">
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
