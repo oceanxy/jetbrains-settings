@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="数字" />
       <item value="cost After Balance Str" />
       <item value="余额明细" />
       <item value="deduction" />
@@ -50,11 +51,10 @@
       <item value="margin" />
       <item value="账单周期配置" />
       <item value="Note: sub-menu only appear when route children.length &gt;= 1" />
-      <item value="Whether fix the header" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
+        <entry key="CHINESE" value="42" />
         <entry key="ENGLISH" value="42" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
