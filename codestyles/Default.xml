@@ -49,6 +49,9 @@
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="ENFORCE_QUOTES_ON_FORMAT" value="true" />
   </ScssCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="0">
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+  </TypeScriptCodeStyleSettings>
   <VueCodeStyleSettings>
     <option name="INTERPOLATION_WRAP" value="1" />
   </VueCodeStyleSettings>
