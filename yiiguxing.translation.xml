@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Emergency Contact" />
       <item value="Expected 'v-bind:key' directive to use the variables which are defined by the 'v-for' directive" />
       <item value="编写d.ts文件" />
       <item value="单位" />
@@ -50,12 +51,11 @@
       <item value="dialog" />
       <item value="change-bed-confirm" />
       <item value="process" />
-      <item value="预约" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="ENGLISH" value="46" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
