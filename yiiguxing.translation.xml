@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="diastolic" />
       <item value="tap" />
       <item value="items" />
       <item value="align" />
@@ -50,12 +51,11 @@
       <item value="疾病" />
       <item value="disease" />
       <item value="description" />
-      <item value="slot" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="55" />
-        <entry key="ENGLISH" value="56" />
+        <entry key="CHINESE" value="56" />
+        <entry key="ENGLISH" value="57" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
