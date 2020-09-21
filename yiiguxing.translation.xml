@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="risk" />
       <item value="systolic" />
       <item value="Checkin Identity Info" />
       <item value="credentials" />
@@ -50,12 +51,11 @@
       <item value="照护等级" />
       <item value="收费配置" />
       <item value="费项" />
-      <item value="toll" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="63" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
