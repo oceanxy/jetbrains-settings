@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Base directory to resolve non-absolute module names" />
       <item value="Enables emit interoperability between CommonJS and ES Modules via creation of namespace objects for all imports. Implies 'allowSyntheticDefaultImports'" />
       <item value="A series of entries which re-map imports to lookup locations relative to the 'baseUrl'" />
       <item value="risk" />
@@ -50,12 +51,11 @@
       <item value="Dto" />
       <item value="评估" />
       <item value="房间" />
-      <item value="照护等级" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="64" />
-        <entry key="ENGLISH" value="65" />
+        <entry key="CHINESE" value="65" />
+        <entry key="ENGLISH" value="66" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
