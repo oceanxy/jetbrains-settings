@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Argument of type 'ObjectUnit' is not assignable to parameter of type 'C'.   'ObjectUnit' is assignable to the constraint of type 'C', but 'C' could be instantiated with a different subtype of constraint 'Cell'." />
       <item value="Type 'any[]' is not assignable to type 'T'.   'any[]' is assignable to the constraint of type 'T', but 'T' could be instantiated with a different subtype of constraint 'Row'." />
       <item value="replaceValue A string containing the text to replace for every successful match of searchValue in this string." />
       <item value="replace" />
@@ -50,7 +51,6 @@
       <item value="账单" />
       <item value="security deposit" />
       <item value="保证金" />
-      <item value="refund" />
     </histories>
     <option name="languageScores">
       <map>
