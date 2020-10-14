@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="discard" />
       <item value="Property 'scrollTo' is protected and only accessible through an instance of class 'any'." />
       <item value="unrelated" />
       <item value="an arbitrary type" />
@@ -50,12 +51,11 @@
       <item value="print" />
       <item value="Inquiry" />
       <item value="查询和交费" />
-      <item value="bookkeeping" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="70" />
-        <entry key="ENGLISH" value="70" />
+        <entry key="ENGLISH" value="71" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
