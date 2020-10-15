@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Target allows only 0 element(s) but source may have more." />
+      <item value="Type 'Partial&lt;TableState&gt;' does not satisfy the constraint '&quot;className&quot; | &quot;data&quot; | &quot;property&quot; | &quot;colWidth&quot; | &quot;scrollHeight&quot; | &quot;selected&quot; | &quot;indeterminate&quot; | &quot;headerWidth&quot; | &quot;transitionName&quot; | &quot;rowStyle&quot;'.   Type 'Partial&lt;TableState&gt;' is not assignable to type '&quot;rowStyle&quot;'." />
       <item value="annotate" />
       <item value="statement" />
       <item value="unreachable" />
@@ -49,12 +51,10 @@
       <item value="deduction" />
       <item value="交费记录" />
       <item value="roles must be a object array" />
-      <item value="roles must be a object array! such as: ['admin'] or ,['developer','editor']" />
-      <item value="打印" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="73" />
+        <entry key="CHINESE" value="74" />
         <entry key="ENGLISH" value="74" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
