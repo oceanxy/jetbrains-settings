@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Application" />
+      <item value="出院申请" />
       <item value="Declaration or statement expected" />
       <item value="Type 'Element' is missing the following properties from type 'HTMLInputElement': accept, align, alt, autocomplete, and 160 more." />
       <item value="Target allows only 0 element(s) but source may have more." />
@@ -49,13 +51,11 @@
       <item value="staging" />
       <item value="数字" />
       <item value="cost After Balance Str" />
-      <item value="余额明细" />
-      <item value="deduction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="74" />
-        <entry key="ENGLISH" value="74" />
+        <entry key="CHINESE" value="75" />
+        <entry key="ENGLISH" value="76" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
