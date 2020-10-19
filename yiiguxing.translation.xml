@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="办理人" />
       <item value="Application" />
       <item value="出院申请" />
       <item value="Declaration or statement expected" />
@@ -50,11 +51,10 @@
       <item value="退房" />
       <item value="staging" />
       <item value="数字" />
-      <item value="cost After Balance Str" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
+        <entry key="CHINESE" value="76" />
         <entry key="ENGLISH" value="76" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
