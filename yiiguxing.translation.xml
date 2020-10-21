@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="死亡" />
       <item value="自定义" />
       <item value="办理人" />
       <item value="Application" />
@@ -50,11 +51,10 @@
       <item value="转换字符串" />
       <item value="结算" />
       <item value="退房" />
-      <item value="staging" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
+        <entry key="CHINESE" value="77" />
         <entry key="ENGLISH" value="77" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
