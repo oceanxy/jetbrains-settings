@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Element implicitly has an 'any' type because expression of type 'string' can't be used to index type '{}'.   No index signature with a parameter of type 'string' was found on type '{}'." />
       <item value="Retrieves or sets the text of the object as a string." />
       <item value="Internal Event" />
       <item value="discharge Records List" />
@@ -50,11 +51,10 @@
       <item value="booked" />
       <item value="体征测量" />
       <item value="is Emergency Contact" />
-      <item value="Expected 'v-bind:key' directive to use the variables which are defined by the 'v-for' directive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="81" />
+        <entry key="CHINESE" value="82" />
         <entry key="ENGLISH" value="82" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
