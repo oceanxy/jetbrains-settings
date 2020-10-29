@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Built In Attrs" />
+      <item value="object Union" />
       <item value="Property 'scroll' is protected and only accessible through an instance of class 'default'" />
       <item value="Element implicitly has an 'any' type because expression of type 'string' can't be used to index type '{}'.   No index signature with a parameter of type 'string' was found on type '{}'." />
       <item value="Retrieves or sets the text of the object as a string." />
@@ -49,13 +51,11 @@
       <item value="reception" />
       <item value="appointment-record" />
       <item value="checked-in" />
-      <item value="booked" />
-      <item value="体征测量" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="82" />
-        <entry key="ENGLISH" value="82" />
+        <entry key="CHINESE" value="83" />
+        <entry key="ENGLISH" value="84" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
