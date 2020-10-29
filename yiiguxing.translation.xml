@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="交叉类型" />
+      <item value="联合类型" />
+      <item value="Union" />
+      <item value="Rest types may only be created from object types." />
       <item value="Built In Attrs" />
       <item value="object Union" />
       <item value="Property 'scroll' is protected and only accessible through an instance of class 'default'" />
@@ -47,15 +51,11 @@
       <item value="align" />
       <item value="头像" />
       <item value="calendar" />
-      <item value="appointment" />
-      <item value="reception" />
-      <item value="appointment-record" />
-      <item value="checked-in" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="83" />
-        <entry key="ENGLISH" value="84" />
+        <entry key="CHINESE" value="86" />
+        <entry key="ENGLISH" value="86" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
