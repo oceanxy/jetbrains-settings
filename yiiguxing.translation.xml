@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Object literal may only specify known properties, and 'onClick' does not exist in type '{ className?: string | undefined; key: string; defaultValue?: any; value?: any; href?: string | undefined; id: string; }'." />
       <item value="'alt' is specified more than once, so this usage will be overwritten." />
       <item value="Spread types may only be created from object types" />
       <item value="交叉类型" />
@@ -50,7 +51,6 @@
       <item value="diastolic" />
       <item value="tap" />
       <item value="items" />
-      <item value="align" />
     </histories>
     <option name="languageScores">
       <map>
