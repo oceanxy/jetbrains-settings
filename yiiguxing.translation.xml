@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Spread types may only be created from object types" />
       <item value="交叉类型" />
       <item value="联合类型" />
       <item value="Union" />
@@ -50,12 +51,11 @@
       <item value="items" />
       <item value="align" />
       <item value="头像" />
-      <item value="calendar" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="86" />
-        <entry key="ENGLISH" value="86" />
+        <entry key="CHINESE" value="87" />
+        <entry key="ENGLISH" value="87" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
