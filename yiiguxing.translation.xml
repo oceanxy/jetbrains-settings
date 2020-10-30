@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Type 'CSSProperties' is not assignable to type '&quot;normal&quot;'." />
+      <item value="The expected type comes from property 'style' which is declared here on type 'DetailedHTMLProps&lt;HTMLAttributes&lt;HTMLSpanElement&gt;, HTMLSpanElement&gt;'" />
       <item value="allow return statements in the global scope" />
       <item value="Object literal may only specify known properties, and 'onClick' does not exist in type '{ className?: string | undefined; key: string; defaultValue?: any; value?: any; href?: string | undefined; id: string; }'." />
       <item value="'alt' is specified more than once, so this usage will be overwritten." />
@@ -49,12 +51,10 @@
       <item value="Checkin Identity Info" />
       <item value="credentials" />
       <item value="体征监测" />
-      <item value="diastolic" />
-      <item value="tap" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="87" />
+        <entry key="CHINESE" value="88" />
         <entry key="ENGLISH" value="88" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
