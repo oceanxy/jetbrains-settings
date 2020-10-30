@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Property 'text' does not exist on type 'never'." />
       <item value="Type 'CSSProperties' is not assignable to type '&quot;normal&quot;'." />
       <item value="The expected type comes from property 'style' which is declared here on type 'DetailedHTMLProps&lt;HTMLAttributes&lt;HTMLSpanElement&gt;, HTMLSpanElement&gt;'" />
       <item value="allow return statements in the global scope" />
@@ -50,7 +51,6 @@
       <item value="systolic" />
       <item value="Checkin Identity Info" />
       <item value="credentials" />
-      <item value="体征监测" />
     </histories>
     <option name="languageScores">
       <map>
