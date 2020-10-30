@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="allow return statements in the global scope" />
       <item value="Object literal may only specify known properties, and 'onClick' does not exist in type '{ className?: string | undefined; key: string; defaultValue?: any; value?: any; href?: string | undefined; id: string; }'." />
       <item value="'alt' is specified more than once, so this usage will be overwritten." />
       <item value="Spread types may only be created from object types" />
@@ -50,12 +51,11 @@
       <item value="体征监测" />
       <item value="diastolic" />
       <item value="tap" />
-      <item value="items" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="87" />
-        <entry key="ENGLISH" value="87" />
+        <entry key="ENGLISH" value="88" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
