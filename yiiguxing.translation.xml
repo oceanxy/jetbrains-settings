@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Enables emit interoperability between CommonJS and ES Modules via creation of namespace objects for all imports. Implies 'allowSyntheticDefaultImports'" />
       <item value="Property 'text' does not exist on type 'never'." />
       <item value="Type 'CSSProperties' is not assignable to type '&quot;normal&quot;'." />
       <item value="The expected type comes from property 'style' which is declared here on type 'DetailedHTMLProps&lt;HTMLAttributes&lt;HTMLSpanElement&gt;, HTMLSpanElement&gt;'" />
@@ -45,7 +46,6 @@
       <item value="decoration" />
       <item value="装饰" />
       <item value="Base directory to resolve non-absolute module names" />
-      <item value="Enables emit interoperability between CommonJS and ES Modules via creation of namespace objects for all imports. Implies 'allowSyntheticDefaultImports'" />
       <item value="A series of entries which re-map imports to lookup locations relative to the 'baseUrl'" />
       <item value="risk" />
       <item value="systolic" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="88" />
-        <entry key="ENGLISH" value="88" />
+        <entry key="ENGLISH" value="89" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
