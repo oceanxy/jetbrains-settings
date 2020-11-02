@@ -55,9 +55,6 @@
   <VueCodeStyleSettings>
     <option name="INTERPOLATION_WRAP" value="1" />
   </VueCodeStyleSettings>
-  <editorconfig>
-    <option name="ENABLED" value="false" />
-  </editorconfig>
   <codeStyleSettings language="HTML">
     <option name="RIGHT_MARGIN" value="120" />
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
