@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="subject must not be sentence-case, start-case, pascal-case, upper-case [subject-case]" />
+      <item value="搭建项目脚手架" />
+      <item value="subject may not be empty [subject-empty]" />
+      <item value="input: Solved some errors after the js project was transformed into a ts project" />
       <item value="Generated files" />
       <item value="User-specific stuff" />
       <item value="lint" />
@@ -47,15 +51,11 @@
       <item value="Argument of type 'ObjectUnit' is not assignable to parameter of type 'C'.   'ObjectUnit' is assignable to the constraint of type 'C', but 'C' could be instantiated with a different subtype of constraint 'Cell'." />
       <item value="Type 'any[]' is not assignable to type 'T'.   'any[]' is assignable to the constraint of type 'T', but 'T' could be instantiated with a different subtype of constraint 'Row'." />
       <item value="replaceValue A string containing the text to replace for every successful match of searchValue in this string." />
-      <item value="replace" />
-      <item value="Type 'Row' is not an array type or a string type. Use compiler option '--downlevelIteration' to allow iterating of iterators." />
-      <item value="decoration" />
-      <item value="装饰" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="94" />
-        <entry key="ENGLISH" value="95" />
+        <entry key="CHINESE" value="98" />
+        <entry key="ENGLISH" value="99" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
