@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="退费规则" />
       <item value="生效日期" />
       <item value="subject must not be sentence-case, start-case, pascal-case, upper-case [subject-case]" />
       <item value="搭建项目脚手架" />
@@ -50,12 +51,11 @@
       <item value="unrelated" />
       <item value="an arbitrary type" />
       <item value="Argument of type 'ObjectUnit' is not assignable to parameter of type 'C'.   'ObjectUnit' is assignable to the constraint of type 'C', but 'C' could be instantiated with a different subtype of constraint 'Cell'." />
-      <item value="Type 'any[]' is not assignable to type 'T'.   'any[]' is assignable to the constraint of type 'T', but 'T' could be instantiated with a different subtype of constraint 'Row'." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="99" />
-        <entry key="ENGLISH" value="99" />
+        <entry key="ENGLISH" value="100" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
