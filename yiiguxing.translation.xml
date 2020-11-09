@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot destructure property 'logger' of 'webpack_cli_1.utils' as it is undefined." />
       <item value="开发环境和生产环境相关配置" />
       <item value="preserve" />
       <item value="optimize-css-assets-webpack-plugin" />
@@ -50,12 +51,11 @@
       <item value="annotate" />
       <item value="statement" />
       <item value="unreachable" />
-      <item value="discard" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="103" />
-        <entry key="ENGLISH" value="104" />
+        <entry key="CHINESE" value="104" />
+        <entry key="ENGLISH" value="105" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
