@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="'default' is referenced directly or indirectly in its own base expression." />
       <item value="Cannot destructure property 'logger' of 'webpack_cli_1.utils' as it is undefined." />
       <item value="开发环境和生产环境相关配置" />
       <item value="preserve" />
@@ -50,11 +51,10 @@
       <item value="Type 'Partial&lt;TableState&gt;' does not satisfy the constraint '&quot;className&quot; | &quot;data&quot; | &quot;property&quot; | &quot;colWidth&quot; | &quot;scrollHeight&quot; | &quot;selected&quot; | &quot;indeterminate&quot; | &quot;headerWidth&quot; | &quot;transitionName&quot; | &quot;rowStyle&quot;'.   Type 'Partial&lt;TableState&gt;' is not assignable to type '&quot;rowStyle&quot;'." />
       <item value="annotate" />
       <item value="statement" />
-      <item value="unreachable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="104" />
+        <entry key="CHINESE" value="105" />
         <entry key="ENGLISH" value="105" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
