@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="忽略web Storm文件" />
       <item value="TypeScript declaration files should never be required" />
       <item value="Critical dependency: require function is used in a way in which dependencies cannot be statically extracted" />
       <item value="'default' is referenced directly or indirectly in its own base expression." />
@@ -50,12 +51,11 @@
       <item value="Declaration or statement expected" />
       <item value="Type 'Element' is missing the following properties from type 'HTMLInputElement': accept, align, alt, autocomplete, and 160 more." />
       <item value="Target allows only 0 element(s) but source may have more." />
-      <item value="Type 'Partial&lt;TableState&gt;' does not satisfy the constraint '&quot;className&quot; | &quot;data&quot; | &quot;property&quot; | &quot;colWidth&quot; | &quot;scrollHeight&quot; | &quot;selected&quot; | &quot;indeterminate&quot; | &quot;headerWidth&quot; | &quot;transitionName&quot; | &quot;rowStyle&quot;'.   Type 'Partial&lt;TableState&gt;' is not assignable to type '&quot;rowStyle&quot;'." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="106" />
-        <entry key="ENGLISH" value="107" />
+        <entry key="CHINESE" value="107" />
+        <entry key="ENGLISH" value="108" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
