@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="extends" />
       <item value="Only declares and type imports are allowed inside declare module" />
       <item value="忽略web Storm文件" />
       <item value="TypeScript declaration files should never be required" />
@@ -50,12 +51,11 @@
       <item value="Application" />
       <item value="出院申请" />
       <item value="Declaration or statement expected" />
-      <item value="Type 'Element' is missing the following properties from type 'HTMLInputElement': accept, align, alt, autocomplete, and 160 more." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="108" />
-        <entry key="ENGLISH" value="108" />
+        <entry key="ENGLISH" value="109" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
