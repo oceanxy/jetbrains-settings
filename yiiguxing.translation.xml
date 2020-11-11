@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Import declarations in a namespace cannot reference a module." />
       <item value="decoration" />
       <item value="extends" />
       <item value="Only declares and type imports are allowed inside declare module" />
@@ -50,11 +51,10 @@
       <item value="自定义" />
       <item value="办理人" />
       <item value="Application" />
-      <item value="出院申请" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="109" />
+        <entry key="CHINESE" value="110" />
         <entry key="ENGLISH" value="110" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
