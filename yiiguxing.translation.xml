@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Interface 'ObjectRow' cannot simultaneously extend types 'ObjectUnit&lt;&quot;onClick&quot;&gt;' and 'HTMLAttributes&lt;HTMLLIElement&gt;'.   Named property 'defaultValue' of types 'ObjectUnit&lt;&quot;onClick&quot;&gt;' and 'HTMLAttributes&lt;HTMLLIElement&gt;' are not identical." />
       <item value="'Node' only refers to a type, but is being used as a namespace here." />
       <item value="Type annotation cannot appear on a constructor declaration." />
       <item value="Cannot find module 'ReactTabllist' or its corresponding type declarations." />
@@ -50,7 +51,6 @@
       <item value="Property 'scroll' is protected and only accessible through an instance of class 'default'" />
       <item value="Element implicitly has an 'any' type because expression of type 'string' can't be used to index type '{}'.   No index signature with a parameter of type 'string' was found on type '{}'." />
       <item value="Retrieves or sets the text of the object as a string." />
-      <item value="Internal Event" />
     </histories>
     <option name="languageScores">
       <map>
