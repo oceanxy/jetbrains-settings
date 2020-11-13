@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="'Node' only refers to a type, but is being used as a namespace here." />
+      <item value="Type annotation cannot appear on a constructor declaration." />
       <item value="Cannot find module 'ReactTabllist' or its corresponding type declarations." />
       <item value="'ReactTabllist' refers to a UMD global, but the current file is a module. Consider adding an import instead." />
       <item value="Circular definition of import alias 'ReactTabllist'." />
@@ -49,8 +51,6 @@
       <item value="Element implicitly has an 'any' type because expression of type 'string' can't be used to index type '{}'.   No index signature with a parameter of type 'string' was found on type '{}'." />
       <item value="Retrieves or sets the text of the object as a string." />
       <item value="Internal Event" />
-      <item value="discharge Records List" />
-      <item value="user-signed" />
     </histories>
     <option name="languageScores">
       <map>
