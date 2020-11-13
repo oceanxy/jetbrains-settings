@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="'ReactTabllist' refers to a UMD global, but the current file is a module. Consider adding an import instead." />
+      <item value="Circular definition of import alias 'ReactTabllist'." />
+      <item value="Cannot find module 'react-tabllist' or its corresponding type declarations." />
+      <item value="This module is declared with using 'export =', and can only be used with a default import when using the 'esModuleInterop' flag." />
       <item value="Import declarations in a namespace cannot reference a module." />
       <item value="decoration" />
       <item value="extends" />
@@ -47,10 +51,6 @@
       <item value="discharge Records List" />
       <item value="user-signed" />
       <item value="审核" />
-      <item value="死亡" />
-      <item value="自定义" />
-      <item value="办理人" />
-      <item value="Application" />
     </histories>
     <option name="languageScores">
       <map>
