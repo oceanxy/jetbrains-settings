@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot find module 'ReactTabllist' or its corresponding type declarations." />
       <item value="'ReactTabllist' refers to a UMD global, but the current file is a module. Consider adding an import instead." />
       <item value="Circular definition of import alias 'ReactTabllist'." />
       <item value="Cannot find module 'react-tabllist' or its corresponding type declarations." />
@@ -50,7 +51,6 @@
       <item value="Internal Event" />
       <item value="discharge Records List" />
       <item value="user-signed" />
-      <item value="审核" />
     </histories>
     <option name="languageScores">
       <map>
