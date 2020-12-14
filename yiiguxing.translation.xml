@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="built files will be auto injected" />
       <item value="payment Voucher" />
       <item value="附件" />
       <item value="办理出院" />
@@ -50,12 +51,11 @@
       <item value="'alt' is specified more than once, so this usage will be overwritten." />
       <item value="Spread types may only be created from object types" />
       <item value="交叉类型" />
-      <item value="联合类型" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="112" />
-        <entry key="ENGLISH" value="113" />
+        <entry key="CHINESE" value="113" />
+        <entry key="ENGLISH" value="114" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1607325747464" />
+    <option name="lastTrimTime" value="1607925615528" />
   </component>
 </application>
