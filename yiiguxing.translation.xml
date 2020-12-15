@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="760" />
+    <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="停电概况" />
+      <item value="运行状态" />
+      <item value="分布情况" />
       <item value="built files will be auto injected" />
       <item value="payment Voucher" />
       <item value="附件" />
@@ -48,14 +54,11 @@
       <item value="The expected type comes from property 'style' which is declared here on type 'DetailedHTMLProps&lt;HTMLAttributes&lt;HTMLSpanElement&gt;, HTMLSpanElement&gt;'" />
       <item value="allow return statements in the global scope" />
       <item value="Object literal may only specify known properties, and 'onClick' does not exist in type '{ className?: string | undefined; key: string; defaultValue?: any; value?: any; href?: string | undefined; id: string; }'." />
-      <item value="'alt' is specified more than once, so this usage will be overwritten." />
-      <item value="Spread types may only be created from object types" />
-      <item value="交叉类型" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="113" />
-        <entry key="ENGLISH" value="114" />
+        <entry key="CHINESE" value="115" />
+        <entry key="ENGLISH" value="115" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
