@@ -1,0 +1,73 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="592" />
+    <option name="newTranslationDialogX" value="760" />
+    <option name="newTranslationDialogY" value="455" />
+    <histories>
+      <item value="停电" />
+      <item value="停电信息" />
+      <item value="运行状态查询" />
+      <item value="设备分布" />
+      <item value="用电设备分布" />
+      <item value="停电概况" />
+      <item value="运行状态" />
+      <item value="分布情况" />
+      <item value="built files will be auto injected" />
+      <item value="payment Voucher" />
+      <item value="附件" />
+      <item value="办理出院" />
+      <item value="Type 'Element' is not assignable to type 'Row'.   Property 'cells' is missing in type 'Element' but required in type 'ObjectRow'." />
+      <item value="literal" />
+      <item value="Object literal may only specify known properties, and 'text' does not exist in type 'ReactElement&lt;any, any&gt;'." />
+      <item value="JSX element type 'ReactTabllistComp' does not have any construct or call signatures." />
+      <item value="Interface 'ObjectRow' cannot simultaneously extend types 'ObjectUnit&lt;&quot;onClick&quot;&gt;' and 'HTMLAttributes&lt;HTMLLIElement&gt;'.   Named property 'defaultValue' of types 'ObjectUnit&lt;&quot;onClick&quot;&gt;' and 'HTMLAttributes&lt;HTMLLIElement&gt;' are not identical." />
+      <item value="'Node' only refers to a type, but is being used as a namespace here." />
+      <item value="Type annotation cannot appear on a constructor declaration." />
+      <item value="Cannot find module 'ReactTabllist' or its corresponding type declarations." />
+      <item value="'ReactTabllist' refers to a UMD global, but the current file is a module. Consider adding an import instead." />
+      <item value="Circular definition of import alias 'ReactTabllist'." />
+      <item value="Cannot find module 'react-tabllist' or its corresponding type declarations." />
+      <item value="This module is declared with using 'export =', and can only be used with a default import when using the 'esModuleInterop' flag." />
+      <item value="Import declarations in a namespace cannot reference a module." />
+      <item value="decoration" />
+      <item value="extends" />
+      <item value="Only declares and type imports are allowed inside declare module" />
+      <item value="忽略web Storm文件" />
+      <item value="TypeScript declaration files should never be required" />
+      <item value="Critical dependency: require function is used in a way in which dependencies cannot be statically extracted" />
+      <item value="'default' is referenced directly or indirectly in its own base expression." />
+      <item value="Cannot destructure property 'logger' of 'webpack_cli_1.utils' as it is undefined." />
+      <item value="开发环境和生产环境相关配置" />
+      <item value="preserve" />
+      <item value="optimize-css-assets-webpack-plugin" />
+      <item value="no-extraneous-dependencies" />
+      <item value="退费规则" />
+      <item value="生效日期" />
+      <item value="subject must not be sentence-case, start-case, pascal-case, upper-case [subject-case]" />
+      <item value="搭建项目脚手架" />
+      <item value="subject may not be empty [subject-empty]" />
+      <item value="input: Solved some errors after the js project was transformed into a ts project" />
+      <item value="Generated files" />
+      <item value="User-specific stuff" />
+      <item value="lint" />
+      <item value="lint-staged" />
+      <item value="staged" />
+      <item value="trailing Comma" />
+      <item value="Enables emit interoperability between CommonJS and ES Modules via creation of namespace objects for all imports. Implies 'allowSyntheticDefaultImports'" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="115" />
+        <entry key="ENGLISH" value="115" />
+        <entry key="CHINESE_TRADITIONAL" value="1" />
+        <entry key="ALBANIAN" value="1" />
+        <entry key="ARABIC" value="1" />
+        <entry key="AMHARIC" value="1" />
+        <entry key="FILIPINO" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1607925615528" />
+  </component>
+</application>
