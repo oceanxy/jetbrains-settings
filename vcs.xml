@@ -10,6 +10,10 @@
           <option name="url" value="http://172.36.152.241" />
           <option name="userName" value="Oceanxy" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:oceanxy/energy-use-system.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Projects" />
