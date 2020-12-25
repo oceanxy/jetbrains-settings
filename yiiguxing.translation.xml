@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="number Of Single" />
       <item value="停电" />
       <item value="停电信息" />
       <item value="运行状态查询" />
@@ -53,12 +54,11 @@
       <item value="lint-staged" />
       <item value="staged" />
       <item value="trailing Comma" />
-      <item value="Enables emit interoperability between CommonJS and ES Modules via creation of namespace objects for all imports. Implies 'allowSyntheticDefaultImports'" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="115" />
-        <entry key="ENGLISH" value="115" />
+        <entry key="ENGLISH" value="116" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
