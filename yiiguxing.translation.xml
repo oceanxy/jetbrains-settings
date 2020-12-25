@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="power Outage Duration" />
+      <item value="number Of Power Outages" />
       <item value="number Of Single" />
       <item value="停电" />
       <item value="停电信息" />
@@ -52,13 +54,11 @@
       <item value="User-specific stuff" />
       <item value="lint" />
       <item value="lint-staged" />
-      <item value="staged" />
-      <item value="trailing Comma" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="115" />
-        <entry key="ENGLISH" value="116" />
+        <entry key="CHINESE" value="117" />
+        <entry key="ENGLISH" value="118" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
