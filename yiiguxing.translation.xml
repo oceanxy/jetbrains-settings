@@ -4,9 +4,10 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
-      <item value="electricity Time" />
-      <item value="power Outage Number" />
-      <item value="Comparison" />
+      <item value="get Power Consumption Yesterday" />
+      <item value="accumulated Power Outages" />
+      <item value="operation And Maintenance" />
+      <item value="supplier" />
       <item value="停电" />
       <item value="停电信息" />
       <item value="运行状态查询" />
@@ -53,12 +54,11 @@
       <item value="Generated files" />
       <item value="User-specific stuff" />
       <item value="lint" />
-      <item value="lint-staged" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="117" />
-        <entry key="ENGLISH" value="118" />
+        <entry key="CHINESE" value="118" />
+        <entry key="ENGLISH" value="119" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
@@ -68,6 +68,9 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1609249725647" />
+    <option name="lastTrimTime" value="1609230174172" />
+  </component>
+  <component name="Settings">
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
