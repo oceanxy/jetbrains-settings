@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="get Power Consumption Yesterday" />
       <item value="accumulated Power Outages" />
       <item value="operation And Maintenance" />
       <item value="supplier" />
@@ -53,12 +54,11 @@
       <item value="Generated files" />
       <item value="User-specific stuff" />
       <item value="lint" />
-      <item value="lint-staged" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="117" />
-        <entry key="ENGLISH" value="118" />
+        <entry key="CHINESE" value="118" />
+        <entry key="ENGLISH" value="119" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
