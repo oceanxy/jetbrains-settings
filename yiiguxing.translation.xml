@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="正常" />
       <item value="feature" />
       <item value="检测用于对比的数据" />
       <item value="rectangle" />
@@ -53,7 +54,6 @@
       <item value="subject must not be sentence-case, start-case, pascal-case, upper-case [subject-case]" />
       <item value="搭建项目脚手架" />
       <item value="subject may not be empty [subject-empty]" />
-      <item value="input: Solved some errors after the js project was transformed into a ts project" />
     </histories>
     <option name="languageScores">
       <map>
