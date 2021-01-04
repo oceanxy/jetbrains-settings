@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="Power Consumption Yesterday" />
       <item value="get Power Consumption Yesterday" />
       <item value="accumulated Power Outages" />
       <item value="operation And Maintenance" />
@@ -53,12 +54,11 @@
       <item value="input: Solved some errors after the js project was transformed into a ts project" />
       <item value="Generated files" />
       <item value="User-specific stuff" />
-      <item value="lint" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="CHINESE" value="119" />
+        <entry key="ENGLISH" value="120" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
@@ -68,7 +68,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1609230174172" />
+    <option name="lastTrimTime" value="1609723108864" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
