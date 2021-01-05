@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="jest &gt; @jestcore &gt; jest-config &gt; jest-environment-jsdom &gt; jsdom &gt; request@2.88.2: request has been deprecated" />
       <item value="Power Consumption Yesterday" />
       <item value="get Power Consumption Yesterday" />
       <item value="accumulated Power Outages" />
@@ -53,16 +54,16 @@
       <item value="subject may not be empty [subject-empty]" />
       <item value="input: Solved some errors after the js project was transformed into a ts project" />
       <item value="Generated files" />
-      <item value="User-specific stuff" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="119" />
+        <entry key="CHINESE" value="120" />
         <entry key="ENGLISH" value="120" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="AMHARIC" value="1" />
+        <entry key="POLISH" value="1" />
         <entry key="FILIPINO" value="1" />
       </map>
     </option>
