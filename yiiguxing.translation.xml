@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="This upgrade did not update the functions, optimized some fields. mainly the version of the core dependency library, and some function updates in the development mode. The detailed information is as follows:" />
+      <item value="This upgrade did not update the functions" />
       <item value="jest &gt; @jestcore &gt; jest-config &gt; jest-environment-jsdom &gt; jsdom &gt; request@2.88.2: request has been deprecated" />
       <item value="Power Consumption Yesterday" />
       <item value="get Power Consumption Yesterday" />
@@ -52,13 +54,11 @@
       <item value="subject must not be sentence-case, start-case, pascal-case, upper-case [subject-case]" />
       <item value="搭建项目脚手架" />
       <item value="subject may not be empty [subject-empty]" />
-      <item value="input: Solved some errors after the js project was transformed into a ts project" />
-      <item value="Generated files" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="120" />
-        <entry key="ENGLISH" value="120" />
+        <entry key="CHINESE" value="121" />
+        <entry key="ENGLISH" value="122" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
