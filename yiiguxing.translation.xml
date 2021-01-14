@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="mode" />
       <item value="mass" />
       <item value="Parsing error: Unexpected token" />
       <item value="Parameter 'event' implicitly has an 'any' type" />
@@ -53,12 +54,11 @@
       <item value="'Node' only refers to a type, but is being used as a namespace here." />
       <item value="Type annotation cannot appear on a constructor declaration." />
       <item value="Cannot find module 'ReactTabllist' or its corresponding type declarations." />
-      <item value="'ReactTabllist' refers to a UMD global, but the current file is a module. Consider adding an import instead." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="142" />
-        <entry key="ENGLISH" value="143" />
+        <entry key="CHINESE" value="143" />
+        <entry key="ENGLISH" value="144" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
