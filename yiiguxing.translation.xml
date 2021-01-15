@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="cluster" />
       <item value="mode" />
       <item value="mass" />
       <item value="Parsing error: Unexpected token" />
@@ -53,12 +54,11 @@
       <item value="Interface 'ObjectRow' cannot simultaneously extend types 'ObjectUnit&lt;&quot;onClick&quot;&gt;' and 'HTMLAttributes&lt;HTMLLIElement&gt;'.   Named property 'defaultValue' of types 'ObjectUnit&lt;&quot;onClick&quot;&gt;' and 'HTMLAttributes&lt;HTMLLIElement&gt;' are not identical." />
       <item value="'Node' only refers to a type, but is being used as a namespace here." />
       <item value="Type annotation cannot appear on a constructor declaration." />
-      <item value="Cannot find module 'ReactTabllist' or its corresponding type declarations." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="143" />
-        <entry key="ENGLISH" value="144" />
+        <entry key="CHINESE" value="144" />
+        <entry key="ENGLISH" value="145" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
