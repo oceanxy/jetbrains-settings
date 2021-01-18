@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="vector Graphics" />
       <item value="Note that the development build is not optimized. To create a production build, run yarn build." />
       <item value="Disallow fallthrough of case statements" />
       <item value="cluster" />
@@ -53,12 +54,11 @@
       <item value="literal" />
       <item value="Object literal may only specify known properties, and 'text' does not exist in type 'ReactElement&lt;any, any&gt;'." />
       <item value="JSX element type 'ReactTabllistComp' does not have any construct or call signatures." />
-      <item value="Interface 'ObjectRow' cannot simultaneously extend types 'ObjectUnit&lt;&quot;onClick&quot;&gt;' and 'HTMLAttributes&lt;HTMLLIElement&gt;'.   Named property 'defaultValue' of types 'ObjectUnit&lt;&quot;onClick&quot;&gt;' and 'HTMLAttributes&lt;HTMLLIElement&gt;' are not identical." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="146" />
-        <entry key="ENGLISH" value="147" />
+        <entry key="CHINESE" value="147" />
+        <entry key="ENGLISH" value="148" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
