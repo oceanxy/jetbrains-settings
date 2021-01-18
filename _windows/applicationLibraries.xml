@@ -4,5 +4,9 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/amap-js-sdk" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
   </component>
 </application>
