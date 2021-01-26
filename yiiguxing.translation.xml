@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="restaurants" />
       <item value="accumulated Power Outages" />
       <item value="scope" />
       <item value="vector Graphics" />
@@ -53,12 +54,11 @@
       <item value="办理出院" />
       <item value="Type 'Element' is not assignable to type 'Row'.   Property 'cells' is missing in type 'Element' but required in type 'ObjectRow'." />
       <item value="literal" />
-      <item value="Object literal may only specify known properties, and 'text' does not exist in type 'ReactElement&lt;any, any&gt;'." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="149" />
-        <entry key="ENGLISH" value="150" />
+        <entry key="CHINESE" value="151" />
+        <entry key="ENGLISH" value="152" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
