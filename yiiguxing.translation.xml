@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="500" />
-    <option name="newTranslationDialogWidth" value="770" />
+    <option name="newTranslationDialogWidth" value="768" />
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="站点详情" />
       <item value="WebStorm 2020.3.2 is now available! What's fixed: Double-click behavior in local changes is now optional (IDEA-235910). The IDE no longer steals focus when you drag a file over its window (IDEA-244511). Fixed the bug with newly added JSX tags causing simultaneous editing of non-related closing tags (WEB-49051). In React, code completion now works for dynamically evaluated className attribute values (WEB-43318). Fixed patch updates for Apple Silicon IDE builds. Please note that the patch update for Apple Silicon from v2020.3.1 to this build is not available (IDEA-258792). Native keychain should now work as expected on Apple Silicon builds (IDEA-258912). For more details, please see the blog post." />
       <item value="restaurants" />
       <item value="accumulated Power Outages" />
@@ -54,7 +55,6 @@
       <item value="payment Voucher" />
       <item value="附件" />
       <item value="办理出院" />
-      <item value="Type 'Element' is not assignable to type 'Row'.   Property 'cells' is missing in type 'Element' but required in type 'ObjectRow'." />
     </histories>
     <option name="languageScores">
       <map>
