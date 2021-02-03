@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="daily" />
+      <item value="平均用电量" />
       <item value="Average Energy Used" />
       <item value="Consumption" />
       <item value="settlement" />
@@ -53,13 +55,11 @@
       <item value="用电设备分布" />
       <item value="停电概况" />
       <item value="运行状态" />
-      <item value="分布情况" />
-      <item value="built files will be auto injected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="154" />
-        <entry key="ENGLISH" value="155" />
+        <entry key="CHINESE" value="155" />
+        <entry key="ENGLISH" value="156" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
