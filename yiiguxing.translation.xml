@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="settlement" />
       <item value="站点详情" />
       <item value="WebStorm 2020.3.2 is now available! What's fixed: Double-click behavior in local changes is now optional (IDEA-235910). The IDE no longer steals focus when you drag a file over its window (IDEA-244511). Fixed the bug with newly added JSX tags causing simultaneous editing of non-related closing tags (WEB-49051). In React, code completion now works for dynamically evaluated className attribute values (WEB-43318). Fixed patch updates for Apple Silicon IDE builds. Please note that the patch update for Apple Silicon from v2020.3.1 to this build is not available (IDEA-258792). Native keychain should now work as expected on Apple Silicon builds (IDEA-258912). For more details, please see the blog post." />
       <item value="restaurants" />
@@ -54,12 +55,11 @@
       <item value="built files will be auto injected" />
       <item value="payment Voucher" />
       <item value="附件" />
-      <item value="办理出院" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="151" />
-        <entry key="ENGLISH" value="152" />
+        <entry key="CHINESE" value="152" />
+        <entry key="ENGLISH" value="153" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
@@ -70,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1611645747536" />
+    <option name="lastTrimTime" value="1612315342109" />
   </component>
 </application>
