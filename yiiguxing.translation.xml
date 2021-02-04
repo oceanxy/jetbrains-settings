@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="refetch" />
+      <item value="prefetch" />
       <item value="settle Ele Bills" />
       <item value="daily" />
       <item value="平均用电量" />
@@ -53,13 +55,11 @@
       <item value="停电信息" />
       <item value="运行状态查询" />
       <item value="设备分布" />
-      <item value="用电设备分布" />
-      <item value="停电概况" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="156" />
-        <entry key="ENGLISH" value="156" />
+        <entry key="CHINESE" value="157" />
+        <entry key="ENGLISH" value="158" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
