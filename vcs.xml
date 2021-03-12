@@ -18,6 +18,10 @@
           <option name="url" value="git@github.com:oceanxy/react-tabllist.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/facebook/react.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="d:\Projects" />
