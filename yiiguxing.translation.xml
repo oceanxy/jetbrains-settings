@@ -5,6 +5,14 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="Legacy" />
+      <item value="original Begin Work" />
+      <item value="profile" />
+      <item value="profiler" />
+      <item value="actual Start Time" />
+      <item value="Running And Record Delta" />
+      <item value="Gather advanced timing metrics for Profiler subtrees." />
+      <item value="enable Profiler Timer" />
       <item value="progress" />
       <item value="field" />
       <item value="additional" />
@@ -47,25 +55,19 @@
       <item value="Cancel the definition of the click event of the row in the property in the 1.2.0 version, instead of defining it in the data property, just like other object cells." />
       <item value="Events can be added to rows, and previous versions can only add events to cells." />
       <item value="Modify the configuration file structure" />
-      <item value="expected" />
-      <item value="'examples' is outside repository at 'D:Projectsreact-tabllist'" />
-      <item value="examples' is outside repository at 'D:Projectsreact-tabllist," />
-      <item value="No conflicting rules detected in your stylelint configuration!" />
-      <item value="This upgrade did not update the functions, optimized some fields. mainly the version of the core dependency library, and some function updates in the development mode. The detailed information is as follows:" />
-      <item value="This upgrade did not update the functions" />
-      <item value="jest &gt; @jestcore &gt; jest-config &gt; jest-environment-jsdom &gt; jsdom &gt; request@2.88.2: request has been deprecated" />
-      <item value="Power Consumption Yesterday" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="164" />
-        <entry key="ENGLISH" value="165" />
+        <entry key="CHINESE" value="170" />
+        <entry key="ENGLISH" value="171" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="POLISH" value="1" />
+        <entry key="DANISH" value="1" />
         <entry key="FILIPINO" value="1" />
+        <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
