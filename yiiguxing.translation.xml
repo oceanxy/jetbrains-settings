@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="Unit Of Work" />
+      <item value="alternate" />
       <item value="refetch" />
       <item value="prefetch" />
       <item value="settle Ele Bills" />
@@ -53,13 +55,11 @@
       <item value="supplier" />
       <item value="停电" />
       <item value="停电信息" />
-      <item value="运行状态查询" />
-      <item value="设备分布" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="157" />
-        <entry key="ENGLISH" value="158" />
+        <entry key="CHINESE" value="159" />
+        <entry key="ENGLISH" value="160" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
