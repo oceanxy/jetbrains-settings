@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="progress" />
+      <item value="field" />
+      <item value="additional" />
+      <item value="The current, flushed, state of this fiber is the alternate. Ideally nothing should rely on this, but relying on it here means that we don't need an additional field on the work in progress." />
+      <item value="Ideally" />
       <item value="Unit Of Work" />
       <item value="alternate" />
       <item value="refetch" />
@@ -50,16 +55,11 @@
       <item value="This upgrade did not update the functions" />
       <item value="jest &gt; @jestcore &gt; jest-config &gt; jest-environment-jsdom &gt; jsdom &gt; request@2.88.2: request has been deprecated" />
       <item value="Power Consumption Yesterday" />
-      <item value="get Power Consumption Yesterday" />
-      <item value="operation And Maintenance" />
-      <item value="supplier" />
-      <item value="停电" />
-      <item value="停电信息" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="159" />
-        <entry key="ENGLISH" value="160" />
+        <entry key="CHINESE" value="164" />
+        <entry key="ENGLISH" value="165" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
