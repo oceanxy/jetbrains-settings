@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="points Of Tag" />
       <item value="并发" />
       <item value="Legacy" />
       <item value="original Begin Work" />
@@ -54,12 +55,11 @@
       <item value="1. Fix bug: When obsolete properties are used, the program is terminated when the obsolete property and the new substitution property (if any) do not belong to the child of the same object. 2. Print outdated property warnings only in the development environment." />
       <item value="1. Added a description of modifying the data structure in the readme file: a new way of writing about row. (This feature is already available in version 1.2.1, but not in the readme file) 2. Fix bug: jsx is invalid in data. 3. Rewrite button, radio, and checkbox custom events; Rewrite the logic of radio and checkbox. 4. Readme file can be switched to Chinese or English. 5. A warning will be printed on the console when using the obsolete property." />
       <item value="Cancel the definition of the click event of the row in the property in the 1.2.0 version, instead of defining it in the data property, just like other object cells." />
-      <item value="Events can be added to rows, and previous versions can only add events to cells." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="171" />
-        <entry key="ENGLISH" value="171" />
+        <entry key="ENGLISH" value="172" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
@@ -73,6 +73,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615365587163" />
+    <option name="lastTrimTime" value="1615876912364" />
   </component>
 </application>
