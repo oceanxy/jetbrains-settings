@@ -1,7 +1,11 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactMenus" value="false" />
+    <option name="compactStatusBar" value="false" />
+    <option name="compactTables" value="false" />
+    <option name="premium" value="true" />
     <option name="accentColor" value="009688" />
     <option name="userId" value="-3132800a:172c5ff3ede:-8000" />
-    <option name="version" value="5.5.0" />
+    <option name="version" value="6.1.1" />
   </component>
 </application>
