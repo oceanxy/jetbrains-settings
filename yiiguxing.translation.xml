@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="inclusive" />
+      <item value="slice" />
       <item value="algorithm" />
       <item value="points Of Tag" />
       <item value="并发" />
@@ -53,13 +55,11 @@
       <item value="1. Modify the logic of scrolling. 2. The height calculation method of the scroll area is updated: the padding of the component and the width of the border are now subtracted. 3. Performance optimization: Pause component scrolling when switching to other tabbed pages in the browser." />
       <item value="Some methods of the component can be used to manipulate the component in the object cell's callback function. For example: `scrollTo(9)` can scroll the list to a row with index 9." />
       <item value="Integrate the original scrolling function related components of the component and add some new scrolling configuration. You can configure it in ‘property.scroll’." />
-      <item value="1. Fix bug: When obsolete properties are used, the program is terminated when the obsolete property and the new substitution property (if any) do not belong to the child of the same object. 2. Print outdated property warnings only in the development environment." />
-      <item value="1. Added a description of modifying the data structure in the readme file: a new way of writing about row. (This feature is already available in version 1.2.1, but not in the readme file) 2. Fix bug: jsx is invalid in data. 3. Rewrite button, radio, and checkbox custom events; Rewrite the logic of radio and checkbox. 4. Readme file can be switched to Chinese or English. 5. A warning will be printed on the console when using the obsolete property." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="171" />
-        <entry key="ENGLISH" value="172" />
+        <entry key="CHINESE" value="174" />
+        <entry key="ENGLISH" value="175" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
