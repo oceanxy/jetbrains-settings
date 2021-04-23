@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="历史记录" />
       <item value="supplementary" />
       <item value="Staff" />
       <item value="inclusive" />
@@ -54,7 +55,6 @@
       <item value="For some reason, v1.5.1 has disappeared! Don't panic, everything in v1.5.1 is included in v1.6.0. But I recommend using the latest version." />
       <item value="1. Customize the text of the header serial number. 2. Configuration item update: property.body.row.rowCheckbox is no longer set directly to a Boolean value, but an object. 3. Custom row selection box or row serial number inserted into which column of the list. 4. You can define partial styles of the body, which usually do not affect the layout of the list. 5. Body height changes with list height whenever. 6. Fix bug: When the row selection or row number feature is enabled, the columns in the header are misaligned with the columns in the body. 7. Refactoring the code logic for row hover effects. 8. Normal text can also be written as an object cell to increase the event." />
       <item value="优化组件滚动功能" />
-      <item value="1. Modify the logic of scrolling. 2. The height calculation method of the scroll area is updated: the padding of the component and the width of the border are now subtracted. 3. Performance optimization: Pause component scrolling when switching to other tabbed pages in the browser." />
     </histories>
     <option name="languageScores">
       <map>
