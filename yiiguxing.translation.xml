@@ -5,7 +5,7 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
-      <item value="is Release" />
+      <item value="历史记录" />
       <item value="supplementary" />
       <item value="Staff" />
       <item value="inclusive" />
@@ -73,6 +73,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619319057438" />
+    <option name="lastTrimTime" value="1618801383518" />
   </component>
 </application>
