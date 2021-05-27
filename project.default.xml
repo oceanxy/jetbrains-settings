@@ -1,0 +1,19 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="PropertiesComponent">
+        <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+        <property name="last_opened_file_path" value="D:/Projects/zw" />
+        <property name="nodejs.cucumber.cucumber_node_package_dir" value="" />
+        <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="js.build_tools.grunt">
+          <node-interpreter value="project" />
+          <envs />
+          <method v="2" />
+        </configuration>
+      </component>
+    </defaultProject>
+  </component>
+</application>

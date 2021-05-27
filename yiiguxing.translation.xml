@@ -1,0 +1,78 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogHeight" value="500" />
+    <option name="newTranslationDialogWidth" value="768" />
+    <option name="newTranslationDialogX" value="601" />
+    <option name="newTranslationDialogY" value="340" />
+    <histories>
+      <item value="cos Parameter" />
+      <item value="历史记录" />
+      <item value="supplementary" />
+      <item value="Staff" />
+      <item value="inclusive" />
+      <item value="slice" />
+      <item value="algorithm" />
+      <item value="points Of Tag" />
+      <item value="并发" />
+      <item value="Legacy" />
+      <item value="original Begin Work" />
+      <item value="profile" />
+      <item value="profiler" />
+      <item value="actual Start Time" />
+      <item value="Running And Record Delta" />
+      <item value="Gather advanced timing metrics for Profiler subtrees." />
+      <item value="enable Profiler Timer" />
+      <item value="progress" />
+      <item value="field" />
+      <item value="additional" />
+      <item value="The current, flushed, state of this fiber is the alternate. Ideally nothing should rely on this, but relying on it here means that we don't need an additional field on the work in progress." />
+      <item value="Ideally" />
+      <item value="Unit Of Work" />
+      <item value="alternate" />
+      <item value="refetch" />
+      <item value="prefetch" />
+      <item value="settle Ele Bills" />
+      <item value="daily" />
+      <item value="平均用电量" />
+      <item value="Average Energy Used" />
+      <item value="Consumption" />
+      <item value="settlement" />
+      <item value="站点详情" />
+      <item value="WebStorm 2020.3.2 is now available! What's fixed: Double-click behavior in local changes is now optional (IDEA-235910). The IDE no longer steals focus when you drag a file over its window (IDEA-244511). Fixed the bug with newly added JSX tags causing simultaneous editing of non-related closing tags (WEB-49051). In React, code completion now works for dynamically evaluated className attribute values (WEB-43318). Fixed patch updates for Apple Silicon IDE builds. Please note that the patch update for Apple Silicon from v2020.3.1 to this build is not available (IDEA-258792). Native keychain should now work as expected on Apple Silicon builds (IDEA-258912). For more details, please see the blog post." />
+      <item value="restaurants" />
+      <item value="accumulated Power Outages" />
+      <item value="scope" />
+      <item value="vector Graphics" />
+      <item value="Note that the development build is not optimized. To create a production build, run yarn build." />
+      <item value="Disallow fallthrough of case statements" />
+      <item value="cluster" />
+      <item value="mode" />
+      <item value="mass" />
+      <item value="Parsing error: Unexpected token" />
+      <item value="Parameter 'event' implicitly has an 'any' type" />
+      <item value="This version has not updated features, only some field names and comments have been optimized. In addition, the version of the core dependency library has been updated, as well as some updates in the development mode. The details are as follows: 1. Remove yarn.lock and package-lock.json from .gitignore 2. Update the version of highlight.js in development mode. The version used before the update (v 9.15.6) has a vulnerability. In fact, the version before v 10.4.1 has this vulnerability 3. Update the version of the core dependency library 4. Optimized the parameter structure of the callback function exposed to the object unit (note that props can be re-assigned through the callback function of the object unit, and the component has been updated. This function has existed before, but it is not explained in the text) 5. Update the README.md file" />
+      <item value="1. New object cell: input. 2. Optimization of generation rules for object cells. You can now add custom attributes, react-related HTML attributes, and HTML attributes specified by w3school in the configuration of the object cell to make the resulting tags more friendly. 3. Modify the description of the fields available in the object cell in the README.md file." />
+      <item value="1. Fix bug: when setting css property {border-collapse: 'collapse'}, 'border-spacing' is invalid because it is ignored. 2. Fix bug: Numeric parsing error when custom cell width value is 'avg' or multiple values separated by commas. 3. Fix bug: When deactivating list auto scrolling, you can't manually control the list to scroll to the specified row. 4. Fix bug: Callback functions for object cell {type: 'radio', ...} and {type: 'checkbox', ...} are not available. Note: This bug exists in all versions prior to version 1.5.1. 5. Optimize the parameter structure of the callback function. 6. Refactored part of the code." />
+      <item value="For some reason, v1.5.1 has disappeared! Don't panic, everything in v1.5.1 is included in v1.6.0. But I recommend using the latest version." />
+      <item value="1. Customize the text of the header serial number. 2. Configuration item update: property.body.row.rowCheckbox is no longer set directly to a Boolean value, but an object. 3. Custom row selection box or row serial number inserted into which column of the list. 4. You can define partial styles of the body, which usually do not affect the layout of the list. 5. Body height changes with list height whenever. 6. Fix bug: When the row selection or row number feature is enabled, the columns in the header are misaligned with the columns in the body. 7. Refactoring the code logic for row hover effects. 8. Normal text can also be written as an object cell to increase the event." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="175" />
+        <entry key="ENGLISH" value="176" />
+        <entry key="CHINESE_TRADITIONAL" value="1" />
+        <entry key="ALBANIAN" value="1" />
+        <entry key="ARABIC" value="1" />
+        <entry key="AMHARIC" value="1" />
+        <entry key="POLISH" value="1" />
+        <entry key="DANISH" value="1" />
+        <entry key="FILIPINO" value="1" />
+        <entry key="NORWEGIAN" value="1" />
+        <entry key="PORTUGUESE" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1622013360084" />
+  </component>
+</application>
