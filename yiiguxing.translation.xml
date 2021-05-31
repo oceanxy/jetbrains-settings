@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="paren" />
       <item value="travis" />
       <item value="cos Parameter" />
       <item value="历史记录" />
@@ -54,11 +55,10 @@
       <item value="This version has not updated features, only some field names and comments have been optimized. In addition, the version of the core dependency library has been updated, as well as some updates in the development mode. The details are as follows: 1. Remove yarn.lock and package-lock.json from .gitignore 2. Update the version of highlight.js in development mode. The version used before the update (v 9.15.6) has a vulnerability. In fact, the version before v 10.4.1 has this vulnerability 3. Update the version of the core dependency library 4. Optimized the parameter structure of the callback function exposed to the object unit (note that props can be re-assigned through the callback function of the object unit, and the component has been updated. This function has existed before, but it is not explained in the text) 5. Update the README.md file" />
       <item value="1. New object cell: input. 2. Optimization of generation rules for object cells. You can now add custom attributes, react-related HTML attributes, and HTML attributes specified by w3school in the configuration of the object cell to make the resulting tags more friendly. 3. Modify the description of the fields available in the object cell in the README.md file." />
       <item value="1. Fix bug: when setting css property {border-collapse: 'collapse'}, 'border-spacing' is invalid because it is ignored. 2. Fix bug: Numeric parsing error when custom cell width value is 'avg' or multiple values separated by commas. 3. Fix bug: When deactivating list auto scrolling, you can't manually control the list to scroll to the specified row. 4. Fix bug: Callback functions for object cell {type: 'radio', ...} and {type: 'checkbox', ...} are not available. Note: This bug exists in all versions prior to version 1.5.1. 5. Optimize the parameter structure of the callback function. 6. Refactored part of the code." />
-      <item value="For some reason, v1.5.1 has disappeared! Don't panic, everything in v1.5.1 is included in v1.6.0. But I recommend using the latest version." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="175" />
+        <entry key="CHINESE" value="176" />
         <entry key="ENGLISH" value="176" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
@@ -67,6 +67,7 @@
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FILIPINO" value="1" />
+        <entry key="BENGALI" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
