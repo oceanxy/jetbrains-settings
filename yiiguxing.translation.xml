@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="User-specific stuff" />
       <item value="strongly-recommended" />
       <item value="recommended" />
       <item value="essential" />
@@ -54,7 +55,6 @@
       <item value="mode" />
       <item value="mass" />
       <item value="Parsing error: Unexpected token" />
-      <item value="Parameter 'event' implicitly has an 'any' type" />
     </histories>
     <option name="languageScores">
       <map>
