@@ -36,7 +36,6 @@
     <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
     <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
     <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,a,img,div,p,form,h1,h2,h3" />
-    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,body,thead,tbody,tfoot,script,style" />
     <option name="HTML_ENFORCE_QUOTES" value="true" />
     <option name="HTML_NEWLINE_BEFORE_FIRST_ATTRIBUTE" value="When multiline" />
     <option name="HTML_NEWLINE_AFTER_LAST_ATTRIBUTE" value="When multiline" />
@@ -82,7 +81,7 @@
     <option name="SPACE_BEFORE_ASYNC_ARROW_LPAREN" value="false" />
   </TypeScriptCodeStyleSettings>
   <VueCodeStyleSettings>
-    <option name="INTERPOLATION_WRAP" value="1" />
+    <option name="INTERPOLATION_WRAP" value="5" />
     <option name="INTERPOLATION_NEW_LINE_AFTER_START_DELIMITER" value="false" />
     <option name="INTERPOLATION_NEW_LINE_BEFORE_END_DELIMITER" value="false" />
   </VueCodeStyleSettings>
