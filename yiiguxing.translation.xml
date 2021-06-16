@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="交付方式" />
       <item value="User-specific stuff" />
       <item value="strongly-recommended" />
       <item value="recommended" />
@@ -54,11 +55,10 @@
       <item value="cluster" />
       <item value="mode" />
       <item value="mass" />
-      <item value="Parsing error: Unexpected token" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="178" />
+        <entry key="CHINESE" value="179" />
         <entry key="ENGLISH" value="179" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
@@ -74,6 +74,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622597593346" />
+    <option name="lastTrimTime" value="1623827059094" />
   </component>
 </application>
