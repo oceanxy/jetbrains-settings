@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="description" />
       <item value="Bad credentials" />
       <item value="交付方式" />
       <item value="User-specific stuff" />
@@ -54,12 +55,11 @@
       <item value="Note that the development build is not optimized. To create a production build, run yarn build." />
       <item value="Disallow fallthrough of case statements" />
       <item value="cluster" />
-      <item value="mode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="179" />
-        <entry key="ENGLISH" value="180" />
+        <entry key="CHINESE" value="180" />
+        <entry key="ENGLISH" value="181" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
