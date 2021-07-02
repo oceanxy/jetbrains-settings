@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="travis" />
       <item value="description" />
       <item value="Bad credentials" />
       <item value="交付方式" />
@@ -13,7 +14,6 @@
       <item value="recommended" />
       <item value="essential" />
       <item value="paren" />
-      <item value="travis" />
       <item value="cos Parameter" />
       <item value="历史记录" />
       <item value="supplementary" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="180" />
-        <entry key="ENGLISH" value="181" />
+        <entry key="CHINESE" value="181" />
+        <entry key="ENGLISH" value="182" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
